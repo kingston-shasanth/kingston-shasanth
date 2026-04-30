@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/🎓%20Karunya%20University-B.Tech%20AI%20%26%20DS-00AEEF?style=for-the-badge"/>
 </a>
 &nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=kingston-shasanth&style=for-the-badge&color=0078D4&label=PROFILE+VIEWS"/>
+<img src="https://shields.io"/>
 
 </div>
 
@@ -87,14 +87,15 @@ class KingstonShasanth:
 
 <div align="center">
 
+
 | Domain | Skills | Status |
-|--------|--------|--------|
-| 🐍 **Python** | Core · OOP · Scripting | ![70%](https://progress-bar.xyz/70/?scale=100&title=&width=120&color=00AEEF&suffix=%) |
-| ☕ **Java** | Core · OOP · JDBC | ![65%](https://progress-bar.xyz/65/?scale=100&title=&width=120&color=0078D4&suffix=%) |
-| 🌐 **Web Dev** | HTML · CSS · JS · Django | ![60%](https://progress-bar.xyz/60/?scale=100&title=&width=120&color=00AEEF&suffix=%) |
-| 💾 **Databases** | MySQL · SQL · Relational Design | ![70%](https://progress-bar.xyz/70/?scale=100&title=&width=120&color=0078D4&suffix=%) |
-| 🤖 **ML / AI** | Concepts · Workflows · Exploring | ![40%](https://progress-bar.xyz/40/?scale=100&title=&width=120&color=00AEEF&suffix=%) |
-| 📡 **Networking** | VLANs · Routing · Packet Tracer | ![55%](https://progress-bar.xyz/55/?scale=100&title=&width=120&color=0078D4&suffix=%) |
+| :--- | :--- | :--- |
+| 🐍 **Python** | Core · OOP · Scripting | <img src="https://shields.io" /> |
+| ☕ **Java** | Core · OOP · JDBC | <img src="https://shields.io" /> |
+| 🌐 **Web Dev** | HTML · CSS · JS · Django | <img src="https://shields.io" /> |
+| 💾 **Databases** | MySQL · SQL · Relational Design | <img src="https://shields.io" /> |
+| 🤖 **ML / AI** | Concepts · Workflows · Exploring | <img src="https://shields.io" /> |
+| 📡 **Networking** | VLANs · Routing · Packet Tracer | <img src="https://shields.io" /> |
 
 </div>
 
@@ -119,7 +120,7 @@ class KingstonShasanth:
 
 ## 🗺️ Learning Roadmap
 
-```
+```text
 2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026+
 
 [✅] Python & Java Core Fundamentals
@@ -142,7 +143,7 @@ class KingstonShasanth:
 
 <div align="center">
 
-```
+```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                    🎯  ACTIVE OBJECTIVES                     ║
 ╠══════════════════════════════════════════════════════════════╣
@@ -197,16 +198,6 @@ class KingstonShasanth:
     </td>
   </tr>
 </table>
-
-</div>
-
----
-
-## 🌊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kingston-shasanth&theme=tokyo-night&hide_border=true&area=true&color=00AEEF&line=0078D4&point=ffffff"/>
 
 </div>
 
