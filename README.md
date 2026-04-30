@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00AEEF,50:0078D4,100:003f7f&amp;height=200&amp;section=header&amp;text=Kingston%20Shasanth&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=55&amp;animation=fadeIn&amp;desc=AI%20%26%20Data%20Science%20%7C%20Karunya%20University&amp;descSize=18&amp;descAlignY=75&amp;descColor=c0e8ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AEEF,50:0078D4,100:003f7f&height=200&section=header&text=Kingston%20Shasanth&fontSize=50&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=AI%20%26%20Data%20Science%20%7C%20Karunya%20University&descSize=18&descAlignY=75&descColor=c0e8ff" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;pause=1000&amp;color=00AEEF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=🚀+Aspiring+AI+%26+Machine+Learning+Engineer;💾+Database-Driven+Application+Developer;🌐+Full-Stack+Web+Developer+in+the+Making;📡+Network+Systems+Explorer;🧠+Building+Intelligent+Systems+from+Scratch" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=900&lines=🚀+Aspiring+AI+%26+Machine+Learning+Engineer;💾+Database-Driven+Application+Developer;🌐+Full-Stack+Web+Developer+in+the+Making;📡+Network+Systems+Explorer;🧠+Building+Intelligent+Systems+from+Scratch" alt="Typing SVG" />
 
 </div>
 
@@ -15,18 +15,18 @@
 <div align="center">
 
 <a href="mailto:kingstonshasanth77@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-kingstonshasanth77%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-kingstonshasanth77%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kingstonshasanth">
-  <img src="https://img.shields.io/badge/LinkedIn-Kingston%20Shasanth-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Kingston%20Shasanth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://karunya.edu" target="_blank">
   <img src="https://img.shields.io/badge/🎓%20Karunya%20University-B.Tech%20AI%20%26%20DS-00AEEF?style=for-the-badge"/>
 </a>
 &nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=kingston-shasanth&amp;style=for-the-badge&amp;color=0078D4&amp;label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=kingston-shasanth&style=for-the-badge&color=0078D4&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -210,19 +210,19 @@ class KingstonShasanth:
   <tr>
     <td align="center" width="33%">
       <a href="mailto:kingstonshasanth77@gmail.com">
-        <img src="https://img.shields.io/badge/📧-Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/📧-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/><br/>
         <sub><b>kingstonshasanth77@gmail.com</b></sub>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.linkedin.com/in/kingstonshasanth">
-        <img src="https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/><br/>
         <sub><b>linkedin.com/in/kingstonshasanth</b></sub>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://karunya.edu" target="_blank">
-        <img src="https://img.shields.io/badge/🎓-University-00AEEF?style=for-the-badge&amp;logo=google-scholar&amp;logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/🎓-University-00AEEF?style=for-the-badge&logo=google-scholar&logoColor=white"/><br/>
         <sub><b>Karunya University, India</b></sub>
       </a>
     </td>
@@ -231,12 +231,10 @@ class KingstonShasanth:
 
 <br/>
 
-> 💡 *"The capacity to learn is a gift; the ability to apply it is a skill; the willingness to do both is a choice."*
->
-> *Build. Break. Learn. Repeat. 🔁*
+> *"Code is how I think. Problems are why I build."*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:003f7f,50:0078D4,100:00AEEF&amp;height=130&amp;section=footer&amp;text=Let's%20Build%20Something%20Great&amp;fontSize=20&amp;fontColor=c0e8ff&amp;fontAlignY=65&amp;animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003f7f,50:0078D4,100:00AEEF&height=130&section=footer&text=Let's%20Build%20Something%20Great&fontSize=20&fontColor=c0e8ff&fontAlignY=65&animation=fadeIn"/>
 
 </div>
