@@ -1,130 +1,131 @@
-<h1 align="center">Kingston Shasanth</h1>
+<div align="center">
+
+# Hi, I'm Kingston Shasanth 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Aspiring+GenAI+%26+AI+Systems+Engineer;AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Database+%26+Analytical+Dashboard+Explorer;Building+Real-World+Technical+Projects)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00AEEF&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Java+%7C+Python+%7C+MySQL+%7C+JDBC+%7C+Django;Database+%26+Network+Simulation+Projects" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="mailto:kingstonshasanth@karunya.edu.in">
-    <img src="https://img.shields.io/badge/Email-kingstonshasanth%40karunya.edu.in-0078D4?style=flat-square&logo=gmail&logoColor=white"/>
+  <a href="mailto:kingstonshasanth77@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-kingstonshasanth77%40gmail.com-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/kingstonshasanth">
-    <img src="https://img.shields.io/badge/LinkedIn-Kingston%20Shasanth-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Kingston%20Shasanth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+</div>
 
 ---
 
 ## About Me
 
-I am an AI & Data Science student focused on:
-- 📘 Machine learning
-- 💾 Database systems
-- 🧩 Java and Python development
-- 🌐 Network simulation
-- 📊 Analytical dashboards
-- ⚙️ Practical, portfolio-ready projects
+I’m an AI & Data Science student passionate about building practical and intelligent systems through hands-on projects and continuous learning.
 
-I build clean academic and technical projects using Java, Python, MySQL, JDBC, Django, HTML, CSS, JavaScript, and structured networking concepts.
+My interests currently include:
+
+- 🧠 Machine Learning & Intelligent Systems
+- 📊 Analytical Dashboards & Data Visualization
+- 💾 Database Systems & JDBC Connectivity
+- 🌐 Enterprise Network Simulation
+- 🧩 Java & Python Application Development
+- ⚙️ Real-world Technical Problem Solving
+- 🔍 Exploring GenAI & AI System Workflows
+
+I enjoy transforming academic concepts into structured, portfolio-ready technical projects.
 
 ---
 
-## Visual Skill Matrix
+## Current Learning Journey
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <h3>🌐 Frontend</h3>
-      HTML<br>
-      CSS<br>
-      JavaScript<br>
-      UI Design
-    </td>
-    <td align="center" width="25%">
-      <h3>💻 Backend</h3>
-      Java<br>
-      Python<br>
-      Django<br>
-      JDBC
-    </td>
-    <td align="center" width="25%">
-      <h3>💾 Database</h3>
-      MySQL<br>
-      SQL<br>
-      Relational Design<br>
-      Query Logic
-    </td>
-    <td align="center" width="25%">
-      <h3>📡 Systems</h3>
-      Cisco Packet Tracer<br>
-      VLANs<br>
-      Routing<br>
-      Switching
-    </td>
-  </tr>
+<div align="center">
+
+| Area | Currently Exploring |
+|------|----------------------|
+| 🧠 AI & ML | Machine Learning Workflows, Prediction Systems |
+| 💻 Programming | Java, Python, JDBC, Django |
+| 💾 Databases | MySQL, SQL Queries, Relational Design |
+| 🌐 Systems | Cisco Packet Tracer, VLAN Concepts, Routing |
+| 📊 Visualization | Analytical Dashboards & Interactive UI |
+| ⚡ Development | HTML, CSS, JavaScript Fundamentals |
+
+</div>
+
+---
+
+## Tech Ecosystem
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,django,mysql,html,css,js,git,github,vscode" />
+
+</div>
+
+---
+
+## Project Domains
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🤖 AI & ML
+Prediction Systems  
+Fake Detection Models  
+Analytical Dashboards  
+Data-driven Applications
+
+</td>
+
+<td align="center" width="33%">
+
+### 💾 Databases
+JDBC Connectivity  
+MySQL Systems  
+CRUD Operations  
+Relational Design
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌐 Infrastructure
+Network Simulation  
+VLAN Architecture  
+Routing Concepts  
+Enterprise Topologies
+
+</td>
+</tr>
 </table>
 
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,django,mysql,git,github,vscode" />
-</p>
+</div>
 
 ---
 
-## Core Focus
+## Featured Project Areas
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Student-0078D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-1E88E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database%20Systems-Strong%20Interest-42A5F5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Network%20Simulation-Practical%20Projects-64B5F6?style=for-the-badge"/>
-</p>
-
----
-
-## Current Focus
-
-- 🔵 Improving my programming foundation
-- 🔵 Building database-driven applications
-- 🔵 Learning machine learning workflows
-- 🔵 Creating polished project documentation
-- 🔵 Developing strong GitHub portfolio projects
+🔹 Smart Building Energy & ESG Predictor  
+🔹 Fake Job Detection System using Django & ML  
+🔹 FitTrack JDBC Management System  
+🔹 NovaNews Network Infrastructure  
+🔹 WelaPharma Enterprise Network Simulation  
 
 ---
 
-## GitHub Analytics
+## Learning Focus
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kingston-shasanth&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingston-shasanth&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingston-shasanth&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingston-shasanth&theme=tokyo-night&hide_border=true"/>
-</p>
+- 📘 Strengthening AI & ML foundations
+- 📘 Building scalable technical projects
+- 📘 Improving backend and database workflows
+- 📘 Exploring intelligent automation systems
+- 📘 Developing clean documentation and UI presentation
 
 ---
 
-## Learning Pulse
+## Development Philosophy
 
-<table align="center">
-  <tr>
-    <td align="center">🧠 Machine Learning</td>
-    <td align="center">📊 Data Analysis</td>
-    <td align="center">🔗 JDBC / MySQL</td>
-    <td align="center">🌐 Networking</td>
-  </tr>
-</table>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00AEEF&height=120&section=footer" />
-</p>
+```text
+Learn → Build → Improve → Document → Repeat
