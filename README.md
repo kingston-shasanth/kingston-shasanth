@@ -15,7 +15,7 @@
 <div align="center">
 
 <a href="mailto:kingstonshasanth77@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-kingstonshasanth77%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-kingstonshasanth77@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kingstonshasanth">
@@ -231,7 +231,9 @@ class KingstonShasanth:
 
 <br/>
 
-> *"Code is how I think. Problems are why I build."*
+> 💡 *"The capacity to learn is a gift; the ability to apply it is a skill; the willingness to do both is a choice."*
+>
+> *Build. Break. Learn. Repeat. 🔁*
 
 <br/>
 
