@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=900&lines=🚀+Aspiring+AI+%26+Machine+Learning+Engineer;💾+Database-Driven+Application+Developer;🌐+Full-Stack+Web+Developer+in+the+Making;📡+Network+Systems+Explorer;🧠+Building+Intelligent+Systems+from+Scratch)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;pause=1000&amp;color=00AEEF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=🚀+Aspiring+AI+%26+Machine+Learning+Engineer;💾+Database-Driven+Application+Developer;🌐+Full-Stack+Web+Developer+in+the+Making;📡+Network+Systems+Explorer;🧠+Building+Intelligent+Systems+from+Scratch)](https://git.io/typing-svg)
 
 </div>
 
@@ -87,14 +87,14 @@ class KingstonShasanth:
 
 <div align="center">
 
-| Domain | Skills | Status |
-|--------|--------|--------|
-| 🐍 **Python** | Core · OOP · Scripting | ![70%](https://progress-bar.xyz/70/?scale=100&title=&width=120&color=00AEEF&suffix=%) |
-| ☕ **Java** | Core · OOP · JDBC | ![65%](https://progress-bar.xyz/65/?scale=100&title=&width=120&color=0078D4&suffix=%) |
-| 🌐 **Web Dev** | HTML · CSS · JS · Django | ![60%](https://progress-bar.xyz/60/?scale=100&title=&width=120&color=00AEEF&suffix=%) |
-| 💾 **Databases** | MySQL · SQL · Relational Design | ![70%](https://progress-bar.xyz/70/?scale=100&title=&width=120&color=0078D4&suffix=%) |
-| 🤖 **ML / AI** | Concepts · Workflows · Exploring | ![40%](https://progress-bar.xyz/40/?scale=100&title=&width=120&color=00AEEF&suffix=%) |
-| 📡 **Networking** | VLANs · Routing · Packet Tracer | ![55%](https://progress-bar.xyz/55/?scale=100&title=&width=120&color=0078D4&suffix=%) |
+| Domain | Skills | Learning Depth |
+|--------|--------|----------------|
+| 🐍 **Python** | Core · OOP · Scripting | Intermediate — building projects independently |
+| ☕ **Java** | Core · OOP · JDBC | Intermediate — comfortable with core and database connectivity |
+| 🌐 **Web Dev** | HTML · CSS · JS · Django | Foundational — progressing into framework-level development |
+| 💾 **Databases** | MySQL · SQL · Relational Design | Intermediate — strong grasp of design and querying |
+| 🤖 **ML / AI** | Concepts · Workflows · Exploring | Early-stage — actively studying algorithms and workflows |
+| 📡 **Networking** | VLANs · Routing · Packet Tracer | Foundational — hands-on with simulation and routing concepts |
 
 </div>
 
@@ -202,16 +202,6 @@ class KingstonShasanth:
 
 ---
 
-## 🌊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kingston-shasanth&theme=tokyo-night&hide_border=true&area=true&color=00AEEF&line=0078D4&point=ffffff"/>
-
-</div>
-
----
-
 ## 📬 Reach Me
 
 <div align="center">
@@ -241,7 +231,7 @@ class KingstonShasanth:
 
 <br/>
 
-> 💡 *"An expert is just someone who refused to give up while learning."*
+> 💡 *"The capacity to learn is a gift; the ability to apply it is a skill; the willingness to do both is a choice."*
 >
 > *Build. Break. Learn. Repeat. 🔁*
 
