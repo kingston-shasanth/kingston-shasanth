@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Kingston%20Shasanth-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:kingstonshasanth@karunya.edu.in">
+<a href="https://karunya.edu" target="_blank">
   <img src="https://img.shields.io/badge/University-Karunya%20University-00AEEF?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 </a>
 
