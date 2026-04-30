@@ -29,30 +29,37 @@ I build clean academic and technical projects using Java, Python, MySQL, JDBC, D
 
 ---
 
-## Analysis Dashboard
+## Visual Skill Matrix
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <h3>📘 Learning Focus</h3>
-      AI & Data Science<br>
-      Machine Learning<br>
-      Data Analysis<br>
-      Problem Solving
+    <td align="center" width="25%">
+      <h3>🌐 Frontend</h3>
+      HTML<br>
+      CSS<br>
+      JavaScript<br>
+      UI Design
     </td>
-    <td align="center" width="33%">
-      <h3>💻 Development</h3>
+    <td align="center" width="25%">
+      <h3>💻 Backend</h3>
       Java<br>
       Python<br>
-      MySQL<br>
-      Django
+      Django<br>
+      JDBC
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
+      <h3>💾 Database</h3>
+      MySQL<br>
+      SQL<br>
+      Relational Design<br>
+      Query Logic
+    </td>
+    <td align="center" width="25%">
       <h3>📡 Systems</h3>
-      JDBC<br>
-      HTML / CSS / JS<br>
-      Networking Basics<br>
-      Simulation Projects
+      Cisco Packet Tracer<br>
+      VLANs<br>
+      Routing<br>
+      Switching
     </td>
   </tr>
 </table>
@@ -62,7 +69,18 @@ I build clean academic and technical projects using Java, Python, MySQL, JDBC, D
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,django,mysql,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,django,mysql,git,github,vscode" />
+</p>
+
+---
+
+## Core Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Student-0078D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-1E88E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database%20Systems-Strong%20Interest-42A5F5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Network%20Simulation-Practical%20Projects-64B5F6?style=for-the-badge"/>
 </p>
 
 ---
@@ -74,17 +92,6 @@ I build clean academic and technical projects using Java, Python, MySQL, JDBC, D
 - 🔵 Learning machine learning workflows
 - 🔵 Creating polished project documentation
 - 🔵 Developing strong GitHub portfolio projects
-
----
-
-## Project Snapshot
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Projects-1E88E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-Projects-2196F3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MySQL-Databases-42A5F5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Django-Learning-64B5F6?style=for-the-badge"/>
-</p>
 
 ---
 
@@ -102,6 +109,19 @@ I build clean academic and technical projects using Java, Python, MySQL, JDBC, D
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingston-shasanth&theme=tokyo-night&hide_border=true"/>
 </p>
+
+---
+
+## Learning Pulse
+
+<table align="center">
+  <tr>
+    <td align="center">🧠 Machine Learning</td>
+    <td align="center">📊 Data Analysis</td>
+    <td align="center">🔗 JDBC / MySQL</td>
+    <td align="center">🌐 Networking</td>
+  </tr>
+</table>
 
 ---
 
