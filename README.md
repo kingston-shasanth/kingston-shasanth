@@ -15,7 +15,7 @@
 <div align="center">
 
 <a href="mailto:kingstonshasanth77@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-kingstonshasanth77@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-kingstonshasanth77%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kingstonshasanth">
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/🎓%20Karunya%20University-B.Tech%20AI%20%26%20DS-00AEEF?style=for-the-badge"/>
 </a>
 &nbsp;&nbsp;
-<img src="https://shields.io"/>
+<img src="https://komarev.com/ghpvc/?username=kingston-shasanth&style=for-the-badge&color=0078D4&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -71,12 +71,15 @@ class KingstonShasanth:
 <div align="center">
 
 ### 💻 Languages & Frameworks
+
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,django,flask" />
 
 ### 💾 Database & Tools
+
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux" />
 
 ### 🤖 AI/ML Stack (Exploring)
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
 </div>
@@ -87,15 +90,14 @@ class KingstonShasanth:
 
 <div align="center">
 
-
-| Domain | Skills | Status |
-| :--- | :--- | :--- |
-| 🐍 **Python** | Core · OOP · Scripting | <img src="https://shields.io" /> |
-| ☕ **Java** | Core · OOP · JDBC | <img src="https://shields.io" /> |
-| 🌐 **Web Dev** | HTML · CSS · JS · Django | <img src="https://shields.io" /> |
-| 💾 **Databases** | MySQL · SQL · Relational Design | <img src="https://shields.io" /> |
-| 🤖 **ML / AI** | Concepts · Workflows · Exploring | <img src="https://shields.io" /> |
-| 📡 **Networking** | VLANs · Routing · Packet Tracer | <img src="https://shields.io" /> |
+| Domain | Skills | Level |
+|--------|--------|-------|
+| 🐍 **Python** | Core · OOP · Scripting | ![70%](https://progress-bar.xyz/70/?scale=100&title=&width=120&color=00AEEF&suffix=%) |
+| ☕ **Java** | Core · OOP · JDBC | ![65%](https://progress-bar.xyz/65/?scale=100&title=&width=120&color=0078D4&suffix=%) |
+| 🌐 **Web Dev** | HTML · CSS · JS · Django | ![60%](https://progress-bar.xyz/60/?scale=100&title=&width=120&color=00AEEF&suffix=%) |
+| 💾 **Databases** | MySQL · SQL · Relational Design | ![70%](https://progress-bar.xyz/70/?scale=100&title=&width=120&color=0078D4&suffix=%) |
+| 🤖 **ML / AI** | Concepts · Workflows · Exploring | ![40%](https://progress-bar.xyz/40/?scale=100&title=&width=120&color=00AEEF&suffix=%) |
+| 📡 **Networking** | VLANs · Routing · Packet Tracer | ![55%](https://progress-bar.xyz/55/?scale=100&title=&width=120&color=0078D4&suffix=%) |
 
 </div>
 
@@ -107,10 +109,14 @@ class KingstonShasanth:
 
 <img src="https://img.shields.io/badge/🤖_Machine%20Learning-Actively%20Exploring-00AEEF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/📊_Data%20Analysis-Building%20Skills-0078D4?style=for-the-badge"/>
+
 <br/><br/>
+
 <img src="https://img.shields.io/badge/⚙️_Full--Stack%20Dev-In%20Progress-00AEEF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🧠_Deep%20Learning-Early%20Stage-0078D4?style=for-the-badge"/>
+
 <br/><br/>
+
 <img src="https://img.shields.io/badge/📡_Network%20Simulation-Hands--On-00AEEF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/💾_Database%20Engineering-Strong%20Focus-0078D4?style=for-the-badge"/>
 
@@ -120,7 +126,7 @@ class KingstonShasanth:
 
 ## 🗺️ Learning Roadmap
 
-```text
+```
 2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026+
 
 [✅] Python & Java Core Fundamentals
@@ -143,7 +149,7 @@ class KingstonShasanth:
 
 <div align="center">
 
-```text
+```
 ╔══════════════════════════════════════════════════════════════╗
 ║                    🎯  ACTIVE OBJECTIVES                     ║
 ╠══════════════════════════════════════════════════════════════╣
@@ -203,6 +209,28 @@ class KingstonShasanth:
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kingston-shasanth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingston-shasanth&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+## 🌊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kingston-shasanth&theme=tokyo-night&hide_border=true&area=true&color=00AEEF&line=0078D4&point=ffffff"/>
+
+</div>
+
+---
+
 ## 📬 Reach Me
 
 <div align="center">
@@ -238,6 +266,6 @@ class KingstonShasanth:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003f7f,50:0078D4,100:00AEEF&height=130&section=footer&text=Let's%20Build%20Something%20Great&fontSize=20&fontColor=c0e8ff&fontAlignY=65&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003f7f,50:0078D4,100:00AEEF&height=130&section=footer&text=Let%27s%20Build%20Something%20Great&fontSize=20&fontColor=c0e8ff&fontAlignY=65&animation=fadeIn"/>
 
 </div>
