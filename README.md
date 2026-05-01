@@ -1,8 +1,8 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00AEEF&height=180&section=header&text=Kingston%20Shasanth&fontSize=48&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=B.Tech%20AI%20%26%20DS%20%7C%20Karunya%20University&descSize=16&descAlignY=75&descColor=d0eeff)](https://github.com/kingston-shasanth)
+![header](https://raw.githubusercontent.com/kingston-shasanth/kingston-shasanth/main/header.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=0078D4&center=true&vCenter=true&width=650&lines=Exploring+AI+and+Machine+Learning;Trying+out+full-stack+web+development;Getting+hands-on+with+databases;Learning+networking+with+Packet+Tracer;Still+figuring+things+out+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=0078D4&center=true&vCenter=true&width=650&lines=Exploring+AI+and+Machine+Learning;Getting+hands-on+with+databases;Trying+out+web+development;Learning+networking+step+by+step;Still+figuring+things+out+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -120,4 +120,8 @@ class KingstonShasanth:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AEEF,100:0078D4&height=120&section=footer&animation=fadeIn" />
+<div align="center">
+
+![footer](https://raw.githubusercontent.com/kingston-shasanth/kingston-shasanth/main/footer.svg)
+
+</div>
