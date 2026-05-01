@@ -1,252 +1,124 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AEEF,50:0078D4,100:003f7f&height=200&section=header&text=Kingston%20Shasanth&fontSize=50&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=AI%20%26%20Data%20Science%20%7C%20Karunya%20University&descSize=18&descAlignY=75&descColor=c0e8ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00AEEF&height=180&section=header&text=Kingston%20Shasanth&fontSize=48&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=B.Tech%20AI%20%26%20Data%20Science%20%7C%20Karunya%20University&descSize=16&descAlignY=75&descColor=d0eeff" />
 
-</div>
+<br/>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=900&lines=🚀+Aspiring+AI+%26+Machine+Learning+Engineer;💾+Database-Driven+Application+Developer;🌐+Full-Stack+Web+Developer+in+the+Making;📡+Network+Systems+Explorer;🧠+Building+Intelligent+Systems+from+Scratch)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
-<a href="mailto:kingstonshasanth77@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-kingstonshasanth77@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kingstonshasanth">
-  <img src="https://img.shields.io/badge/LinkedIn-Kingston%20Shasanth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://karunya.edu" target="_blank">
-  <img src="https://img.shields.io/badge/🎓%20Karunya%20University-B.Tech%20AI%20%26%20DS-00AEEF?style=for-the-badge"/>
-</a>
-&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=kingston-shasanth&style=for-the-badge&color=0078D4&label=PROFILE+VIEWS"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0078D4&center=true&vCenter=true&width=700&lines=Learning+AI+%26+Machine+Learning+every+day;Building+database-driven+applications;Exploring+full-stack+web+development;Simulating+real-world+networks;Growing+one+commit+at+a+time+%F0%9F%93%88)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## ⚡ Who Am I?
-
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 👨‍💻 About Me
 
 ```python
 class KingstonShasanth:
 
-    name       = "Kingston Shasanth"
-    degree     = "B.Tech — AI & Data Science"
-    university = "Karunya University, India"
+    name        = "Kingston Shasanth"
+    degree      = "B.Tech — Artificial Intelligence & Data Science"
+    university  = "Karunya University, Coimbatore, India"
+    status      = "Undergraduate · Actively Learning"
 
-    currently_learning = [
-        "Machine Learning & Deep Learning",
-        "Full-Stack Web Development",
-        "Database Engineering",
-        "Data Analysis & Visualization",
-        "Network Architecture & Simulation",
+    exposed_to  = [
+        "Python", "Java", "MySQL",
+        "HTML", "CSS", "JavaScript",
+        "Django", "Flask", "JDBC",
+        "Machine Learning (basics)",
+        "Cisco Packet Tracer (Networking)",
+        "TensorFlow (exploring)",
     ]
 
-    aspiring_to = [
-        "AI/ML Engineer",
-        "Data Scientist",
-        "Full-Stack Developer",
-        "Systems Builder",
+    currently_focused_on = [
+        "Building real projects from scratch",
+        "Strengthening Python & database skills",
+        "Learning ML workflows step by step",
+        "Writing cleaner, documented code",
     ]
 
-    tools_of_choice = ["Python", "Java", "MySQL", "Django"]
-    motto = "Build. Break. Learn. Repeat. 🔁"
-```
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,django,flask" />
-
-### 💾 Database & Tools
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux" />
-
-### 🤖 AI/ML Stack (Exploring)
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-</div>
-
----
-
-## 📊 Skill Progression
-
-<div align="center">
-
-| Domain | Skills | Status |
-|--------|--------|--------|
-| 🐍 **Python** | Core · OOP · Scripting | ![70%](https://progress-bar.xyz/70/?scale=100&title=&width=120&color=00AEEF&suffix=%) |
-| ☕ **Java** | Core · OOP · JDBC | ![65%](https://progress-bar.xyz/65/?scale=100&title=&width=120&color=0078D4&suffix=%) |
-| 🌐 **Web Dev** | HTML · CSS · JS · Django | ![60%](https://progress-bar.xyz/60/?scale=100&title=&width=120&color=00AEEF&suffix=%) |
-| 💾 **Databases** | MySQL · SQL · Relational Design | ![70%](https://progress-bar.xyz/70/?scale=100&title=&width=120&color=0078D4&suffix=%) |
-| 🤖 **ML / AI** | Concepts · Workflows · Exploring | ![40%](https://progress-bar.xyz/40/?scale=100&title=&width=120&color=00AEEF&suffix=%) |
-| 📡 **Networking** | VLANs · Routing · Packet Tracer | ![55%](https://progress-bar.xyz/55/?scale=100&title=&width=120&color=0078D4&suffix=%) |
-
-</div>
-
----
-
-## 🧠 Currently Exploring
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🤖_Machine%20Learning-Actively%20Exploring-00AEEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📊_Data%20Analysis-Building%20Skills-0078D4?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/⚙️_Full--Stack%20Dev-In%20Progress-00AEEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🧠_Deep%20Learning-Early%20Stage-0078D4?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/📡_Network%20Simulation-Hands--On-00AEEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💾_Database%20Engineering-Strong%20Focus-0078D4?style=for-the-badge"/>
-
-</div>
-
----
-
-## 🗺️ Learning Roadmap
-
-```
-2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026+
-
-[✅] Python & Java Core Fundamentals
-[✅] MySQL & Database Design
-[✅] HTML · CSS · JavaScript Basics
-[✅] JDBC — Java–Database Connectivity
-[✅] Network Simulation (Cisco Packet Tracer)
-[🔄] Django Web Framework
-[🔄] Machine Learning Workflows
-[🔄] Data Analysis & Visualization
-[🔄] Portfolio Projects & Open Source Contributions
-[🎯] AI/ML Engineering — End Goal
-[🎯] Production-Grade Full-Stack Applications
-[🎯] Cloud & Deployment Skills
+    motto = "Build. Break. Learn. Repeat."
 ```
 
 ---
 
-## 📌 Current Mission
+## 🛠️ Skills I've Been Exposed To
 
 <div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0078D4?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-00AEEF?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0078D4?style=flat-square&logo=javascript&logoColor=white)
+
+**Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-00AEEF?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0078D4?style=flat-square&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-00AEEF?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0078D4?style=flat-square&logo=flask&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-00AEEF?style=flat-square&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-0078D4?style=flat-square&logo=java&logoColor=white)
+
+**AI / ML — Exploring**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-00AEEF?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-0078D4?style=flat-square&logo=pytorch&logoColor=white)
+
+**Tools & Networking**
+
+![Git](https://img.shields.io/badge/Git-00AEEF?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0078D4?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-00AEEF?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0078D4?style=flat-square&logo=linux&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-00AEEF?style=flat-square&logo=cisco&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Current Goals
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                    🎯  ACTIVE OBJECTIVES                     ║
-╠══════════════════════════════════════════════════════════════╣
-║  🔵  Deepen Python & Java programming skills                 ║
-║  🔵  Build database-driven full-stack applications           ║
-║  🔵  Dive into ML algorithms and model building              ║
-║  🔵  Craft polished, documented GitHub projects              ║
-║  🔵  Master data analysis and visualization tools            ║
-║  🔵  Simulate real-world networking architectures            ║
-╚══════════════════════════════════════════════════════════════╝
+  ◉  Strengthen Python & Java fundamentals
+  ◉  Build database-driven full-stack projects
+  ◉  Learn ML algorithms and model workflows
+  ◉  Write documented, portfolio-ready code on GitHub
+  ◉  Explore data analysis and visualization tools
+  ◉  Simulate real-world networking architectures
 ```
 
-</div>
-
 ---
 
-## 🏗️ Skill Architecture
+## 📬 Contact
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <h3>🌐 Frontend</h3>
-      HTML · CSS<br/>
-      JavaScript<br/>
-      UI/UX Design
-    </td>
-    <td align="center" width="20%">
-      <h3>💻 Backend</h3>
-      Python · Java<br/>
-      Django · Flask<br/>
-      JDBC
-    </td>
-    <td align="center" width="20%">
-      <h3>💾 Database</h3>
-      MySQL · SQL<br/>
-      Relational Design<br/>
-      Query Optimization
-    </td>
-    <td align="center" width="20%">
-      <h3>📡 Networking</h3>
-      Cisco Packet Tracer<br/>
-      VLANs · Routing<br/>
-      Switching
-    </td>
-    <td align="center" width="20%">
-      <h3>🤖 AI / ML</h3>
-      ML Workflows<br/>
-      Data Analysis<br/>
-      TensorFlow (Exploring)
-    </td>
-  </tr>
-</table>
+<a href="mailto:kingstonshasanth77@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/kingstonshasanth">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://karunya.edu" target="_blank">
+  <img src="https://img.shields.io/badge/Karunya%20University-0078D4?style=flat-square&logo=google-scholar&logoColor=white"/>
+</a>
 
 </div>
-
----
-
-## 🌊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kingston-shasanth&theme=tokyo-night&hide_border=true&area=true&color=00AEEF&line=0078D4&point=ffffff"/>
-
-</div>
-
----
-
-## 📬 Reach Me
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="mailto:kingstonshasanth77@gmail.com">
-        <img src="https://img.shields.io/badge/📧-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/><br/>
-        <sub><b>kingstonshasanth77@gmail.com</b></sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.linkedin.com/in/kingstonshasanth">
-        <img src="https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/><br/>
-        <sub><b>linkedin.com/in/kingstonshasanth</b></sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://karunya.edu" target="_blank">
-        <img src="https://img.shields.io/badge/🎓-University-00AEEF?style=for-the-badge&logo=google-scholar&logoColor=white"/><br/>
-        <sub><b>Karunya University, India</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
-> 💡 *"An expert is just someone who refused to give up while learning."*
->
-> *Build. Break. Learn. Repeat. 🔁*
+<div align="center">
+
+> *"Every expert was once a beginner who kept going."*
+
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003f7f,50:0078D4,100:00AEEF&height=130&section=footer&text=Let's%20Build%20Something%20Great&fontSize=20&fontColor=c0e8ff&fontAlignY=65&animation=fadeIn"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AEEF,100:0078D4&height=120&section=footer&animation=fadeIn"/>
