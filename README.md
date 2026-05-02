@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://raw.githubusercontent.com/hi-kingston-shasanth/kingston-shasanth/main/header.svg)
+![header](https://raw.githubusercontent.com/kingston-shasanth/kingston-shasanth/main/header.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=0078D4&center=true&vCenter=true&width=650&lines=Exploring+AI+and+Machine+Learning;Getting+hands-on+with+databases;Trying+out+web+development;Learning+networking+step+by+step;Still+figuring+things+out+%F0%9F%9A%80)](https://git.io/typing-svg)
 
