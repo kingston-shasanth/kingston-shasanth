@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-```python
+python
 class KingstonShasanth:
 
     name        = "Kingston Shasanth"
@@ -36,7 +36,7 @@ class KingstonShasanth:
     ]
 
     motto = "Still learning. Always trying."
-```
+
 
 ---
 
