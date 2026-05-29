@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0078D4"/>
+      <stop offset="50%" style="stop-color:#00AEEF"/>
+      <stop offset="100%" style="stop-color:#005A9E"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#005A9E;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#00AEEF;stop-opacity:0.3"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0078D4;stop-opacity:0.4"/>
+      <stop offset="100%" style="stop-color:#005A9E;stop-opacity:0.2"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="900" height="200" fill="url(#bg)"/>
+
+  <!-- animated wave 1 -->
+  <path fill="url(#wave1)">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+        M0,120 C150,90 300,150 450,120 C600,90 750,150 900,120 L900,200 L0,200 Z;
+        M0,130 C150,100 300,160 450,130 C600,100 750,160 900,130 L900,200 L0,200 Z;
+        M0,120 C150,90 300,150 450,120 C600,90 750,150 900,120 L900,200 L0,200 Z
+      "/>
+  </path>
+
+  <!-- animated wave 2 -->
+  <path fill="url(#wave2)">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+        M0,150 C200,120 400,170 600,140 C750,115 850,155 900,145 L900,200 L0,200 Z;
+        M0,140 C200,165 400,130 600,155 C750,175 850,140 900,155 L900,200 L0,200 Z;
+        M0,150 C200,120 400,170 600,140 C750,115 850,155 900,145 L900,200 L0,200 Z
+      "/>
+  </path>
+
+  <!-- floating particles -->
+  <circle cx="80" cy="50" r="2" fill="white" opacity="0.4">
+    <animate attributeName="cy" values="50;30;50" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="80" r="1.5" fill="white" opacity="0.3">
+    <animate attributeName="cy" values="80;55;80" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="40" r="2" fill="white" opacity="0.35">
+    <animate attributeName="cy" values="40;20;40" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35;0.7;0.35" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="820" cy="70" r="1.5" fill="white" opacity="0.3">
+    <animate attributeName="cy" values="70;45;70" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="30" r="1" fill="white" opacity="0.25">
+    <animate attributeName="cy" values="30;15;30" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.25;0.5;0.25" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- main name with fade-in -->
+  <text x="450" y="90" text-anchor="middle"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="52" font-weight="700"
+        fill="white" letter-spacing="1">
+    Kingston Shasanth
+    <animate attributeName="opacity" values="0;0;1" dur="1.2s" fill="freeze"/>
+  </text>
+
+  <!-- subtitle -->
+  <text x="450" y="125" text-anchor="middle"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="16" font-weight="400"
+        fill="#c8e8ff" letter-spacing="0.5">
+    AI &amp; Data Science | Karunya University
+    <animate attributeName="opacity" values="0;0;0;1" dur="1.8s" fill="freeze"/>
+  </text>
+
+</svg>

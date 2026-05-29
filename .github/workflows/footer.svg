@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120">
+  <defs>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#005A9E"/>
+      <stop offset="50%" style="stop-color:#0078D4"/>
+      <stop offset="100%" style="stop-color:#00AEEF"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="120" fill="url(#fg)"/>
+  <path fill="white" opacity="0.08">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="
+        M0,60 C200,30 400,80 600,50 C750,25 850,60 900,55 L900,0 L0,0 Z;
+        M0,50 C200,75 400,30 600,60 C750,80 850,45 900,50 L900,0 L0,0 Z;
+        M0,60 C200,30 400,80 600,50 C750,25 850,60 900,55 L900,0 L0,0 Z
+      "/>
+  </path>
+  <path fill="white" opacity="0.06">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite"
+      values="
+        M0,40 C150,65 350,20 550,45 C700,65 820,35 900,40 L900,0 L0,0 Z;
+        M0,55 C150,25 350,60 550,30 C700,10 820,50 900,35 L900,0 L0,0 Z;
+        M0,40 C150,65 350,20 550,45 C700,65 820,35 900,40 L900,0 L0,0 Z
+      "/>
+  </path>
+</svg>
