@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Kingston%20Shasanth&fontSize=60&color=0:0078D4,50:00AEEF,100:005A9E&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=AI%20%26%20Data%20Science%20%7C%20Karunya%20University&descSize=17&descAlignY=75&descColor=c8e8ff" width="100%"/>
+<img src="https://raw.githubusercontent.com/kingston-shasanth/kingston-shasanth/main/header.svg" width="100%"/>
 
 <div align="center">
 
@@ -83,7 +83,7 @@ class KingstonShasanth:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kingston-shasanth&show_icons=true&theme=tokyonight&title_color=00AEEF&icon_color=0078D4&text_color=c8e8ff&bg_color=0d1117&border_color=0078D4&border_radius=12&hide_border=false" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kingston-shasanth&show_icons=true&theme=tokyonight&title_color=00AEEF&icon_color=0078D4&text_color=c8e8ff&bg_color=0d1117&border_color=0078D4&border_radius=12" height="170"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingston-shasanth&layout=compact&theme=tokyonight&title_color=00AEEF&text_color=c8e8ff&bg_color=0d1117&border_color=0078D4&border_radius=12" height="170"/>
 
@@ -170,4 +170,4 @@ class KingstonShasanth:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:005A9E,50:0078D4,100:00AEEF&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/kingston-shasanth/kingston-shasanth/main/footer.svg" width="100%"/>
