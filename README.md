@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="assets/header.svg" width="100%" alt="Kingston Shasanth — Aspiring Software Engineer | Software Development · Machine Learning · Artificial Intelligence" />
-
+<br/>
 <p align="center">
   <a href="https://github.com/kingston-shasanth">
     <img src="https://img.shields.io/badge/GitHub-kingston--shasanth-17383B?style=flat-square&logo=github&logoColor=F3EFE7" alt="GitHub Profile" />
