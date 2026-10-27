@@ -1,75 +1,99 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="100%" height="auto" preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="100%" height="auto" preserveAspectRatio="xMidYMid meet">
   <defs>
-    <!-- Background Gradient: Coordinated with Header -->
-    <linearGradient id="footerBg" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#10171B" />
-      <stop offset="50%" stop-color="#17383B" />
-      <stop offset="85%" stop-color="#241E26" />
-      <stop offset="100%" stop-color="#10171B" />
+    <!-- Background Gradient: Deeper Charcoal & Petrol Baseline -->
+    <linearGradient id="footerBgGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0E1418" />
+      <stop offset="40%" stop-color="#142C2F" />
+      <stop offset="80%" stop-color="#201A24" />
+      <stop offset="100%" stop-color="#0E1418" />
     </linearGradient>
 
-    <!-- Copper Current Accent Gradient -->
-    <linearGradient id="footerCopper" x1="0%" y1="0%" x2="100%" y2="0%">
+    <!-- Copper Accent Gradient -->
+    <linearGradient id="footerCopperGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#B88763" stop-opacity="0.05" />
       <stop offset="30%" stop-color="#D7BE98" stop-opacity="0.75" />
-      <stop offset="70%" stop-color="#B88763" stop-opacity="0.75" />
+      <stop offset="70%" stop-color="#B88763" stop-opacity="0.8" />
       <stop offset="100%" stop-color="#D7BE98" stop-opacity="0.05" />
     </linearGradient>
 
-    <radialGradient id="footerGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#D7BE98" stop-opacity="0.1" />
-      <stop offset="60%" stop-color="#B88763" stop-opacity="0.03" />
-      <stop offset="100%" stop-color="#10171B" stop-opacity="0" />
+    <radialGradient id="footerFocalGlow" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#D7BE98" stop-opacity="0.12" />
+      <stop offset="50%" stop-color="#B88763" stop-opacity="0.03" />
+      <stop offset="100%" stop-color="#0E1418" stop-opacity="0" />
     </radialGradient>
 
     <style>
-      .footer-signoff {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-        font-size: 13px;
-        font-weight: 700;
-        letter-spacing: 3.5px;
-        fill: #F3EFE7;
-      }
       .footer-brand {
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
         font-size: 9.5px;
         font-weight: 600;
-        letter-spacing: 4px;
+        letter-spacing: 3.5px;
         fill: #9BAFA8;
+      }
+      .footer-signoff {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: 17px;
+        font-weight: 700;
+        letter-spacing: 4px;
+        fill: #F3EFE7;
+      }
+      .footer-subline {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 500;
+        letter-spacing: 3px;
+        fill: #D7BE98;
+      }
+      .footer-meta {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: 8.5px;
+        font-weight: 500;
+        letter-spacing: 2px;
+        fill: #9BAFA8;
+        opacity: 0.55;
       }
     </style>
   </defs>
 
   <!-- Background Base -->
-  <rect width="1200" height="140" rx="10" fill="url(#footerBg)" />
-  <rect width="1200" height="140" rx="10" fill="url(#footerGlow)" />
+  <rect width="1200" height="160" rx="8" fill="url(#footerBgGrad)" />
+  <rect width="1200" height="160" rx="8" fill="url(#footerFocalGlow)" />
 
   <!-- Outer Architectural Border -->
-  <rect x="10" y="10" width="1180" height="120" rx="6" fill="none" stroke="#B88763" stroke-width="0.85" stroke-opacity="0.25" />
+  <rect x="12" y="12" width="1176" height="136" rx="6" fill="none" stroke="#B88763" stroke-width="0.85" stroke-opacity="0.25" />
+  <rect x="16" y="16" width="1168" height="128" rx="4" fill="none" stroke="#9BAFA8" stroke-width="0.6" stroke-opacity="0.1" />
 
-  <!-- Corner Trim -->
-  <path d="M 20 30 L 20 20 L 30 20" fill="none" stroke="#B88763" stroke-width="1.5" stroke-linecap="round" />
-  <path d="M 1180 30 L 1180 20 L 1170 20" fill="none" stroke="#B88763" stroke-width="1.5" stroke-linecap="round" />
-  <path d="M 20 110 L 20 120 L 30 120" fill="none" stroke="#B88763" stroke-width="1.5" stroke-linecap="round" />
-  <path d="M 1180 110 L 1180 120 L 1170 120" fill="none" stroke="#B88763" stroke-width="1.5" stroke-linecap="round" />
+  <!-- Corner Registration Trim -->
+  <path d="M 24 34 L 24 24 L 34 24" fill="none" stroke="#B88763" stroke-width="1.5" stroke-linecap="square" />
+  <path d="M 1176 34 L 1176 24 L 1166 24" fill="none" stroke="#B88763" stroke-width="1.5" stroke-linecap="square" />
+  <path d="M 24 126 L 24 136 L 34 136" fill="none" stroke="#B88763" stroke-width="1.5" stroke-linecap="square" />
+  <path d="M 1176 126 L 1176 136 L 1166 136" fill="none" stroke="#B88763" stroke-width="1.5" stroke-linecap="square" />
 
-  <!-- Converging Copper Current Lines -->
-  <path d="M -20 40 C 220 90, 440 20, 600 55 C 760 90, 980 20, 1220 60" 
-        fill="none" stroke="url(#footerCopper)" stroke-width="1.25" stroke-linecap="round">
-    <animate attributeName="stroke-dashoffset" from="0" to="200" dur="22s" repeatCount="indefinite" />
+  <!-- Technical Crosshairs -->
+  <g stroke="#D7BE98" stroke-width="0.75" opacity="0.35">
+    <path d="M 50 25 L 50 33 M 46 29 L 54 29" />
+    <path d="M 1150 25 L 1150 33 M 1146 29 L 1154 29" />
+  </g>
+
+  <!-- Single Refined Geometric Architectural Signal Line -->
+  <path d="M 16 80 L 320 80 L 380 45 L 820 45 L 880 80 L 1184 80" 
+        fill="none" stroke="url(#footerCopperGrad)" stroke-width="1.25" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" from="0" to="240" dur="24s" repeatCount="indefinite" />
   </path>
 
-  <path d="M -20 100 C 240 60, 460 110, 600 85 C 740 60, 960 115, 1220 80" 
-        fill="none" stroke="url(#footerCopper)" stroke-width="0.85" stroke-opacity="0.4" stroke-dasharray="10 8">
-    <animate attributeName="stroke-dashoffset" from="0" to="-200" dur="26s" repeatCount="indefinite" />
-  </path>
+  <!-- Central Anchor Diamond & Technical Crosshair -->
+  <g transform="translate(600, 45)">
+    <polygon points="0,-5 5,0 0,5 -5,0" fill="#D7BE98" opacity="0.85" />
+    <line x1="-140" y1="0" x2="-20" y2="0" stroke="#B88763" stroke-width="0.75" stroke-opacity="0.4" />
+    <line x1="20" y1="0" x2="140" y2="0" stroke="#B88763" stroke-width="0.75" stroke-opacity="0.4" />
+  </g>
 
-  <!-- Central Diamond Accent -->
-  <polygon points="600,28 605,33 600,38 595,33" fill="#D7BE98" opacity="0.8" />
-  <line x1="440" y1="33" x2="585" y2="33" stroke="#B88763" stroke-width="0.75" stroke-opacity="0.4" />
-  <line x1="615" y1="33" x2="760" y2="33" stroke="#B88763" stroke-width="0.75" stroke-opacity="0.4" />
+  <!-- Subtle Corner Metadata -->
+  <text x="32" y="32" class="footer-meta">ARCH.TERMINUS</text>
+  <text x="1168" y="32" class="footer-meta" text-anchor="end">SYS.VER // 2026</text>
 
-  <!-- Center Sign-Off & Brand Statement -->
-  <text x="600" y="68" text-anchor="middle" class="footer-signoff">ENGINEERED WITH RIGOR · BUILT WITH PURPOSE · ALWAYS LEARNING</text>
-  <text x="600" y="98" text-anchor="middle" class="footer-brand">KINGSTON SHASANTH · PORTFOLIO EDITION</text>
+  <!-- Central Typography -->
+  <text x="600" y="75" text-anchor="middle" class="footer-brand">KINGSTON SHASANTH // PORTFOLIO ARCHITECTURE</text>
+  <text x="600" y="102" text-anchor="middle" class="footer-signoff">ENGINEERED WITH RIGOR · BUILT WITH PURPOSE</text>
+  <text x="600" y="126" text-anchor="middle" class="footer-subline">CONTINUOUSLY LEARNING. BUILDING WHAT MATTERS.</text>
 </svg>
