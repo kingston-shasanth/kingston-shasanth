@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" height="auto" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <!-- Background Gradient: Deep Midnight to Midnight Petrol with Dark Aubergine warmth -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10171B" />
+      <stop offset="45%" stop-color="#17383B" />
+      <stop offset="80%" stop-color="#241E26" />
+      <stop offset="100%" stop-color="#10171B" />
+    </linearGradient>
+
+    <!-- Radial Ambient Glow -->
+    <radialGradient id="ambientGlow" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#D7BE98" stop-opacity="0.14" />
+      <stop offset="45%" stop-color="#B88763" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#10171B" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Copper Current Gradient 1 -->
+    <linearGradient id="copperGrad1" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#B88763" stop-opacity="0.05" />
+      <stop offset="25%" stop-color="#D7BE98" stop-opacity="0.75" />
+      <stop offset="65%" stop-color="#B88763" stop-opacity="0.85" />
+      <stop offset="85%" stop-color="#D7BE98" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#B88763" stop-opacity="0.05" />
+    </linearGradient>
+
+    <!-- Copper Current Gradient 2 -->
+    <linearGradient id="copperGrad2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#9BAFA8" stop-opacity="0.05" />
+      <stop offset="35%" stop-color="#B88763" stop-opacity="0.6" />
+      <stop offset="70%" stop-color="#D7BE98" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#352B36" stop-opacity="0.05" />
+    </linearGradient>
+
+    <!-- Sage Accent Gradient -->
+    <linearGradient id="sageGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9BAFA8" stop-opacity="0" />
+      <stop offset="50%" stop-color="#9BAFA8" stop-opacity="0.45" />
+      <stop offset="100%" stop-color="#9BAFA8" stop-opacity="0" />
+    </linearGradient>
+
+    <style>
+      .title {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: 42px;
+        font-weight: 800;
+        letter-spacing: 4px;
+        fill: #F3EFE7;
+      }
+      .overline {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: 11px;
+        font-weight: 600;
+        letter-spacing: 4.5px;
+        fill: #9BAFA8;
+      }
+      .subtitle {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: 13.5px;
+        font-weight: 500;
+        letter-spacing: 3.5px;
+        fill: #D7BE98;
+      }
+      .badge-text {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: 10.5px;
+        font-weight: 600;
+        letter-spacing: 2px;
+        fill: #F3EFE7;
+      }
+    </style>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1200" height="340" rx="12" fill="url(#bgGrad)" />
+
+  <!-- Ambient Focal Glow -->
+  <rect width="1200" height="340" rx="12" fill="url(#ambientGlow)" />
+
+  <!-- Architectural Frame & Outer Micro-border -->
+  <rect x="12" y="12" width="1176" height="316" rx="8" fill="none" stroke="#B88763" stroke-width="1" stroke-opacity="0.25" />
+  <rect x="16" y="16" width="1168" height="308" rx="6" fill="none" stroke="#9BAFA8" stroke-width="0.75" stroke-opacity="0.12" />
+
+  <!-- Corner Architectural Accents -->
+  <path d="M 24 40 L 24 24 L 40 24" fill="none" stroke="#B88763" stroke-width="2" stroke-linecap="round" />
+  <path d="M 1176 40 L 1176 24 L 1160 24" fill="none" stroke="#B88763" stroke-width="2" stroke-linecap="round" />
+  <path d="M 24 300 L 24 316 L 40 316" fill="none" stroke="#B88763" stroke-width="2" stroke-linecap="round" />
+  <path d="M 1176 300 L 1176 316 L 1160 316" fill="none" stroke="#B88763" stroke-width="2" stroke-linecap="round" />
+
+  <!-- Copper Current Wave System (Primary Harmonic Layer) -->
+  <path d="M -40 210 C 180 140, 360 280, 600 200 C 840 120, 1020 260, 1240 180" 
+        fill="none" stroke="url(#copperGrad1)" stroke-width="2" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" from="0" to="240" dur="20s" repeatCount="indefinite" />
+  </path>
+
+  <path d="M -40 225 C 200 155, 380 295, 620 215 C 860 135, 1040 275, 1240 195" 
+        fill="none" stroke="url(#copperGrad1)" stroke-width="1.25" stroke-opacity="0.6" stroke-dasharray="14 10">
+    <animate attributeName="stroke-dashoffset" from="0" to="-240" dur="24s" repeatCount="indefinite" />
+  </path>
+
+  <!-- Copper Current Secondary Wave System -->
+  <path d="M -40 140 C 220 240, 420 80, 640 170 C 860 260, 1060 110, 1240 190" 
+        fill="none" stroke="url(#copperGrad2)" stroke-width="1.5" stroke-opacity="0.45">
+    <animate attributeName="stroke-dashoffset" from="0" to="180" dur="28s" repeatCount="indefinite" />
+  </path>
+
+  <path d="M -40 125 C 240 225, 440 65, 660 155 C 880 245, 1080 95, 1240 175" 
+        fill="none" stroke="url(#copperGrad2)" stroke-width="1" stroke-opacity="0.3" stroke-dasharray="8 8">
+    <animate attributeName="stroke-dashoffset" from="0" to="-180" dur="32s" repeatCount="indefinite" />
+  </path>
+
+  <!-- Central Horizon Refined Guideline -->
+  <line x1="160" y1="170" x2="1040" y2="170" stroke="url(#sageGrad)" stroke-width="0.75" />
+
+  <!-- Constellation Nodes on Current Vectors -->
+  <g>
+    <circle cx="280" cy="180" r="3.5" fill="#D7BE98" opacity="0.75">
+      <animate attributeName="opacity" values="0.35;0.9;0.35" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="r" values="3;4.2;3" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="280" cy="180" r="8" fill="none" stroke="#B88763" stroke-width="0.75" opacity="0.35">
+      <animate attributeName="r" values="6;11;6" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.4;0.1;0.4" dur="4s" repeatCount="indefinite" />
+    </circle>
+
+    <circle cx="480" cy="235" r="2.5" fill="#B88763" opacity="0.65">
+      <animate attributeName="opacity" values="0.4;0.85;0.4" dur="5s" repeatCount="indefinite" />
+    </circle>
+
+    <circle cx="720" cy="165" r="4" fill="#D7BE98" opacity="0.85">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="4.5s" repeatCount="indefinite" />
+      <animate attributeName="r" values="3.5;4.8;3.5" dur="4.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="720" cy="165" r="10" fill="none" stroke="#D7BE98" stroke-width="0.75" opacity="0.3">
+      <animate attributeName="r" values="8;14;8" dur="4.5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.35;0.05;0.35" dur="4.5s" repeatCount="indefinite" />
+    </circle>
+
+    <circle cx="940" cy="210" r="3" fill="#B88763" opacity="0.7">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="6s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Typography Hierarchy -->
+  <g id="typography">
+    <!-- Top Overline / Discipline Tracker -->
+    <text x="600" y="90" text-anchor="middle" class="overline">SYSTEMS ARCHITECTURE · APPLIED INTELLIGENCE</text>
+    
+    <!-- Accent Line Above Name -->
+    <line x1="530" y1="104" x2="670" y2="104" stroke="#B88763" stroke-width="1.5" stroke-linecap="round" />
+
+    <!-- Name / Identity -->
+    <text x="600" y="160" text-anchor="middle" class="title">KINGSTON SHASANTH</text>
+
+    <!-- Subtitle / Core Specialization -->
+    <text x="600" y="200" text-anchor="middle" class="subtitle">ARTIFICIAL INTELLIGENCE · DATA SCIENCE · SOFTWARE ENGINEERING</text>
+
+    <!-- Bottom Architectural Pill Badge -->
+    <g transform="translate(600, 245)">
+      <rect x="-225" y="-14" width="450" height="28" rx="14" 
+            fill="#10171B" fill-opacity="0.75" stroke="#B88763" stroke-width="1" stroke-opacity="0.4" />
+      <circle cx="-195" cy="0" r="3.5" fill="#9BAFA8">
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite" />
+      </circle>
+      <text x="12" y="4" text-anchor="middle" class="badge-text">NEURO-SYMBOLIC AI · HYBRID RETRIEVAL · FULL-STACK SYSTEMS</text>
+    </g>
+  </g>
+</svg>

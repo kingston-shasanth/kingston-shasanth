@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1E3F35,75:243E56,100:0D1117&height=220&section=header&text=KINGSTON%20SHASANTH&fontSize=38&fontColor=F4F1EA&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20SOFTWARE%20ENGINEERING&descSize=14&descColor=C2A878&descAlignY=58" width="100%" alt="Kingston Shasanth - AI & Data Science Header" />
+<img src="assets/header.svg" width="100%" alt="Kingston Shasanth — Artificial Intelligence · Data Science · Software Engineering" />
 
 <br/>
 
 <a href="https://github.com/kingston-shasanth">
-  <img src="https://img.shields.io/badge/GitHub-kingston--shasanth-1E3F35?style=flat-square&logo=github&logoColor=F4F1EA" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/GitHub-kingston--shasanth-17383B?style=flat-square&logo=github&logoColor=F3EFE7" alt="GitHub Profile" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/kingstonshasanth">
-  <img src="https://img.shields.io/badge/LinkedIn-kingstonshasanth-243E56?style=flat-square&logo=linkedin&logoColor=F4F1EA" alt="LinkedIn Profile" />
+  <img src="https://img.shields.io/badge/LinkedIn-kingstonshasanth-B88763?style=flat-square&logo=linkedin&logoColor=F3EFE7" alt="LinkedIn Profile" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Education-Karunya%20University-21262D?style=flat-square&logoColor=C2A878" alt="Karunya University" />
+<img src="https://img.shields.io/badge/Karunya%20University-Coimbatore%2C%20India-10171B?style=flat-square&logoColor=D7BE98" alt="Karunya University" />
 &nbsp;
-<img src="https://img.shields.io/badge/Location-Coimbatore%2C%20IN-21262D?style=flat-square&logoColor=C2A878" alt="Location" />
+<img src="https://img.shields.io/badge/Specialization-AI%20%26%20Data%20Science-17383B?style=flat-square&logoColor=D7BE98" alt="B.Tech AI & Data Science" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=C2A878&center=true&vCenter=true&width=620&lines=Applied+AI+%26+Computer+Vision+Systems;Full-Stack+Architectures+%26+Backend+Engineering;Accessibility-First+Software+Design" alt="Typing Headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=D7BE98&center=true&vCenter=true&width=640&lines=Neuro-Symbolic+AI+%26+Evidence+Intelligence;Assistive+Computer+Vision+%26+Edge+Inference;Full-Stack+Architectures+%26+Data-Driven+Systems" alt="Focus Areas" />
 
 <br/>
 
 <p align="center">
-<strong>Artificial Intelligence & Data Science Undergraduate</strong> focusing on production-minded engineering,<br/>
-computer vision systems, resilient backend APIs, and accessible human-centered software.
+<strong>Artificial Intelligence &amp; Data Science Undergraduate</strong> at Karunya University, Coimbatore.<br/>
+Engineering practical neuro-symbolic reasoning systems, assistive computer vision, resilient backend APIs, and accessible software.
 </p>
 
 </div>
@@ -33,9 +33,9 @@ computer vision systems, resilient backend APIs, and accessible human-centered s
 
 ### `//` PROFILE OVERVIEW
 
-I am an **Artificial Intelligence and Data Science** undergraduate at **Karunya University, Coimbatore, India**, dedicated to transforming algorithmic models and engineering foundations into practical, reliable software products.
+I am an **Artificial Intelligence and Data Science** undergraduate at **Karunya University in Coimbatore, India**, dedicated to developing verified, production-minded software where algorithmic models and disciplined engineering come together to solve concrete problems.
 
-My technical focus bridges **machine learning applications** and **full-stack software development**—building complete workflows from computer vision inference pipelines and normalized database schemas to intuitive, accessible user interfaces.
+My work focuses on the intersection of **applied artificial intelligence**, **computer vision**, and **full-stack software engineering**. Rather than treating machine learning as an isolated research sandbox, I emphasize end-to-end system design—coupling calibrated models with resilient API services, normalized database schemas, and accessible user interfaces.
 
 <br/>
 
@@ -43,19 +43,19 @@ My technical focus bridges **machine learning applications** and **full-stack so
 <tr>
 <td width="50%" valign="top">
 
-#### 🎯 Core Engineering Principles
-- **Applied AI & ML:** Practical model deployment, computer vision pipelines, and intelligent interfaces.
-- **Backend Architecture:** RESTful APIs, relational & document databases, authentication flows.
-- **Accessible Tech:** Assistive systems designed with empathy for low-vision and assistive technology users.
+#### 🎯 Core Engineering Focus
+- **Applied AI & Neuro-Symbolic Reasoning:** Evidentiary retrieval, natural language inference, confidence calibration, and transfer learning for classification.
+- **Full-Stack Architecture & APIs:** Scalable microservices, asynchronous request pipelines, strict state isolation, and authenticated user workflows.
+- **Accessible, Human-Centered Software:** Assistive technology engineered with empathy for low-vision and screen-reader users, including real-time multilingual voice feedback.
 
 </td>
 <td width="50%" valign="top">
 
-#### 💼 Current Work & Academic Focus
-- **Institution:** Karunya Institute of Technology and Sciences
-- **Specialization:** Artificial Intelligence and Data Science
-- **Active Exploration:** Model optimization, FastAPI microservices, and end-to-end full-stack systems
-- **Collaboration:** Open to engineering projects, open-source initiatives, and technical research
+#### 💼 Academic & Technical Direction
+- **Institution:** Karunya Institute of Technology and Sciences, Coimbatore
+- **Program:** B.Tech in Artificial Intelligence & Data Science
+- **Current Technical Exploration:** Hybrid dense/sparse retrieval (FAISS + BM25), temperature-scaled confidence calibration, and low-latency edge inference.
+- **Collaboration:** Open to engineering projects, open-source initiatives, and applied AI research.
 
 </td>
 </tr>
@@ -63,84 +63,80 @@ My technical focus bridges **machine learning applications** and **full-stack so
 
 ---
 
-### `//` FEATURED PROJECTS
+### `//` SELECTED PROJECTS
 
-A selection of software engineering and applied AI systems developed with focused problem-solving and clean architectures:
+Four focused engineering systems demonstrating end-to-end architecture, applied machine learning, and clean software implementation:
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 · DRISHTI AI
-**Accessible Currency Intelligence System**
+### 01 · VERITAS Evidence Intelligence Engine
+**Neuro-Symbolic Claim Verification & Evidence Intelligence**
 
-An assistive AI platform engineered to assist blind and low-vision individuals in recognizing Indian banknotes and coins independently through real-time computer vision and multilingual voice feedback.
+An audited claim verification engine coupling dense and sparse hybrid retrieval with cross-encoder Natural Language Inference, temperature-scaled confidence calibration, and 11-stage forensic telemetry.
 
-- **Vision Pipeline:** Pretrained computer vision models fine-tuned for high-accuracy banknote and coin detection under varying angles and lighting.
-- **Voice-First Experience:** Accessible audio guidance and low-latency multilingual feedback.
-- **Status:** Active Research & Development
+- **Hybrid Evidentiary Retrieval:** Merges dense vector embeddings via FAISS with BM25 lexical keyword ranking using Reciprocal Rank Fusion.
+- **Calibrated Verification:** DeBERTa-v3 cross-encoder NLI with temperature scaling ($T = 4.1039$) producing transparent evidence-grounded veracity decisions.
 
 ```
-Stack: Python · PyTorch · FastAPI · React · Computer Vision
+Stack: Python · PyTorch · DeBERTa-v3 · FAISS · BM25 · FastAPI · React 18 · Vite
+```
+
+[**Explore Repository →**](https://github.com/kingston-shasanth/VERITAS-Evidence-Intelligence-Engine)
+
+</td>
+<td width="50%" valign="top">
+
+### 02 · NIRA Currency Intelligence
+**Assistive Banknote & Coin Recognition for Visually Impaired Users**
+
+A full-stack assistive computer vision platform engineered to help visually impaired individuals recognize Indian banknotes and coins independently through real-time camera inference and voice feedback.
+
+- **Deep Transfer Learning:** ResNet-18 classification pipeline trained across 14 banknote and coin classes, evaluated on a held-out test set.
+- **Voice Guidance & Accessibility:** Multilingual audio feedback across 13 Indian languages with native Android accessibility routing via Capacitor.
+
+```
+Stack: Python · PyTorch · ResNet-18 · FastAPI · React 19 · TypeScript · Capacitor · SQLite
 ```
 
 [**Explore Repository →**](https://github.com/kingston-shasanth/NIRA-Currency-Intelligence)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### 02 · RELOOP
-**Refurbished Electronics Marketplace**
+### 03 · RELOOP Refurbished Electronics Marketplace
+**Full-Stack Circular Commerce & Product Lifecycle Platform**
 
-A full-stack circular economy platform designed for buying, selling, and managing certified refurbished electronics, featuring complete customer-facing workflows and administration interfaces.
+A production-minded circular electronics marketplace designed to address the refurbished trust deficit through verifiable condition grading, Digital Product Passports (DPP), trade-in valuations, and transparent order tracking.
 
-- **Architecture:** Separation of payment methods and payment status flows with role-based access control.
-- **Data Modeling:** Scalable MongoDB schemas with Mongoose for inventory, trade-in tracking, and order histories.
-- **Status:** Complete System Implementation
+- **Architectural Isolation:** Strict separation of payment method selection and payment status workflows with role-based JWT access controls.
+- **Data Modeling:** Scalable MongoDB schemas with Mongoose modeling refurbished product lifecycles, refurbishment repair pipelines, and trade-in valuations.
 
 ```
-Stack: React · Vite · Node.js · Express · MongoDB · Mongoose
+Stack: React 18 · Vite · Node.js · Express · MongoDB · Mongoose · Bootstrap 5
 ```
 
 [**Explore Repository →**](https://github.com/kingston-shasanth/RELOOP-refurbished-electronics-marketplace)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 03 · FitTrack
-**Database-Driven Fitness Management**
+### 04 · Smart Building Energy & ESG Predictor
+**ML-Powered Facility Consumption & Sustainability Analytics**
 
-A full-stack health and fitness management web application built to master relational data modeling, JDBC connectivity, and structured SQL operations.
+An end-to-end machine learning web application analyzing multi-sensor historical building telemetry to model consumption patterns, evaluate emissions, and support ESG-guided facility decisions.
 
-- **Data Integrity:** Normalized relational database schema with custom CRUD operations and stored query optimizations.
-- **Feature Set:** Workout logging, fitness activity analytics, user health metrics tracking, and history reporting.
-- **Status:** Completed Core Project
-
-```
-Stack: Java · JDBC · MySQL · HTML5 · CSS3 · Servlets
-```
-
-[**Explore Repository →**](https://github.com/kingston-shasanth/FitTrack)
-
-</td>
-<td width="50%" valign="top">
-
-### 04 · NovaNews
-**Enterprise Network Infrastructure**
-
-An enterprise network simulation designed for a high-traffic media and broadcasting corporation using Cisco Packet Tracer to ensure reliable, segmented, and secure data transmission.
-
-- **Network Design:** Multi-VLAN segmentation, inter-VLAN routing, perimeter security, and trunking.
-- **High Availability:** Redundant switching paths, DHCP pool allocation, DNS mapping, and packet inspection.
-- **Status:** Validated Simulation Topology
+- **Multi-Target Predictive Models:** Gradient Boosting regressors tuned with RandomizedSearchCV to predict energy (kWh), water usage, carbon emissions, and sustainability scores.
+- **Interactive "What-If" Simulations:** Interactive dashboard calculating estimated utility expenses and simulating occupancy, temperature, and HVAC adjustments.
 
 ```
-Stack: Cisco Packet Tracer · VLANs · Routing & Switching · TCP/IP
+Stack: Python · Scikit-Learn · Gradient Boosting · Streamlit · Pandas · NumPy
 ```
 
-[**Explore Repository →**](https://github.com/kingston-shasanth/NovaNews-Network-Infrastructure)
+[**Explore Repository →**](https://github.com/kingston-shasanth/Smart-Building-Energy-ESG-Predictor)
 
 </td>
 </tr>
@@ -148,60 +144,60 @@ Stack: Cisco Packet Tracer · VLANs · Routing & Switching · TCP/IP
 
 ---
 
-### `//` TECHNICAL MATRIX
+### `//` TECHNICAL SKILLS MATRIX
 
-A comprehensive overview of programming languages, frameworks, libraries, and developer tools utilized across engineering projects:
+An organized inventory of programming languages, frameworks, libraries, and developer tools used across engineering projects:
 
 <table>
 <tr>
 <td width="20%"><strong>Languages</strong></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,html,css&theme=dark" alt="Languages" /><br/>
-  <sub><code>Python</code> · <code>Java</code> · <code>JavaScript</code> · <code>C</code> · <code>C++</code> · <code>HTML5</code> · <code>CSS3</code></sub>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,html,css&theme=dark" alt="Languages" /><br/>
+  <sub><code>Python</code> · <code>Java</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>C</code> · <code>C++</code> · <code>HTML5</code> · <code>CSS3</code></sub>
 </td>
 </tr>
 <tr>
 <td width="20%"><strong>Frontend</strong></td>
 <td>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" alt="Frontend" /><br/>
-  <sub><code>React.js</code> · <code>Vite</code> · <code>Tailwind CSS</code> · <code>Responsive Web Design</code> · <code>DOM Architecture</code></sub>
+  <sub><code>React.js (18/19)</code> · <code>Vite</code> · <code>Tailwind CSS</code> · <code>TypeScript</code> · <code>Capacitor (Mobile)</code></sub>
 </td>
 </tr>
 <tr>
-<td width="20%"><strong>Backend & APIs</strong></td>
+<td width="20%"><strong>Backend &amp; APIs</strong></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend" /><br/>
-  <sub><code>FastAPI</code> · <code>Node.js</code> · <code>Express.js</code> · <code>RESTful APIs</code> · <code>Authentication (JWT)</code></sub>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" alt="Backend" /><br/>
+  <sub><code>FastAPI</code> · <code>Node.js</code> · <code>Express.js</code> · <code>RESTful APIs</code> · <code>JWT Authentication</code> · <code>Asynchronous Task Handlers</code></sub>
 </td>
 </tr>
 <tr>
-<td width="20%"><strong>AI & Data Science</strong></td>
+<td width="20%"><strong>AI &amp; Data Science</strong></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=pytorch,numpy,pandas&theme=dark" alt="AI & ML" /><br/>
-  <sub><code>PyTorch</code> · <code>NumPy</code> · <code>Pandas</code> · <code>Computer Vision</code> · <code>Model Fine-Tuning</code></sub>
+  <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,numpy,pandas&theme=dark" alt="AI & ML" /><br/>
+  <sub><code>PyTorch</code> · <code>DeBERTa-v3</code> · <code>ResNet-18</code> · <code>Scikit-Learn</code> · <code>FAISS</code> · <code>BM25</code> · <code>NumPy</code> · <code>Pandas</code></sub>
 </td>
 </tr>
 <tr>
 <td width="20%"><strong>Databases</strong></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Databases" /><br/>
-  <sub><code>MongoDB</code> · <code>Mongoose</code> · <code>MySQL</code> · <code>Relational Schema Design</code> · <code>JDBC</code></sub>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" alt="Databases" /><br/>
+  <sub><code>MongoDB</code> · <code>Mongoose</code> · <code>MySQL</code> · <code>SQLite</code> · <code>Relational &amp; Document Schema Design</code></sub>
 </td>
 </tr>
 <tr>
-<td width="20%"><strong>Tools & Systems</strong></td>
+<td width="20%"><strong>Tools &amp; Systems</strong></td>
 <td>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" alt="Developer Tools" /><br/>
-  <sub><code>Git</code> · <code>GitHub</code> · <code>VS Code</code> · <code>Linux CLI</code> · <code>Postman</code> · <code>Cisco Packet Tracer</code></sub>
+  <sub><code>Git</code> · <code>GitHub</code> · <code>Linux CLI</code> · <code>VS Code</code> · <code>Postman</code> · <code>Cisco Packet Tracer</code></sub>
 </td>
 </tr>
 </table>
 
 ---
 
-### `//` GITHUB METRICS & ACTIVITY
+### `//` GITHUB TELEMETRY & ACTIVITY
 
-Live telemetry reflecting GitHub activity, repository development, and code distribution across public projects:
+Live telemetry reflecting GitHub activity, repository development, and language distribution across public projects:
 
 <br/>
 
@@ -209,12 +205,12 @@ Live telemetry reflecting GitHub activity, repository development, and code dist
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=kingston-shasanth&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9AB7B0&text_color=E7E5DF&icon_color=C2A878&hide_rank=true" alt="Kingston's GitHub Statistics" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=kingston-shasanth&show_icons=true&hide_border=true&bg_color=10171B&title_color=D7BE98&text_color=F3EFE7&icon_color=B88763&hide_rank=true" alt="Kingston's GitHub Statistics" />
 
 </td>
 <td width="50%" align="center" valign="middle">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingston-shasanth&layout=compact&hide_border=true&bg_color=0D1117&title_color=9AB7B0&text_color=E7E5DF&langs_count=6" alt="Most Used Languages" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingston-shasanth&layout=compact&hide_border=true&bg_color=10171B&title_color=D7BE98&text_color=F3EFE7&langs_count=6" alt="Most Used Languages" />
 
 </td>
 </tr>
@@ -222,19 +218,19 @@ Live telemetry reflecting GitHub activity, repository development, and code dist
 
 <p align="center">
   <a href="https://github.com/kingston-shasanth?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Browse%20All%20Projects-1E3F35?style=flat-square&logo=github&logoColor=F4F1EA" alt="Browse Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-Browse%20All%20Projects-17383B?style=flat-square&logo=github&logoColor=F3EFE7" alt="Browse Repositories" />
   </a>
   &nbsp;
   <a href="https://github.com/kingston-shasanth?tab=overview">
-    <img src="https://img.shields.io/badge/Contributions-Inspect%20Activity%20Graph-243E56?style=flat-square&logo=github&logoColor=F4F1EA" alt="Inspect Activity" />
+    <img src="https://img.shields.io/badge/Activity-Inspect%20Contribution%20Graph-B88763?style=flat-square&logo=github&logoColor=F3EFE7" alt="Inspect Activity" />
   </a>
 </p>
 
 ---
 
-### `//` ENGINEERING FOCUS AREAS
+### `//` ENGINEERING PRINCIPLES
 
-A structured overview of core engineering domains driving current projects and ongoing technical development:
+Four foundational practices guiding project architecture, implementation rigor, and technical continuous improvement:
 
 <table>
 <tr>
@@ -242,28 +238,28 @@ A structured overview of core engineering domains driving current projects and o
 
 #### `01` BUILD
 **Practical Products**
-Developing complete web and AI products that solve real-world problems with robust frontend-to-backend integrations.
+Translating mathematical and computational models into dependable, end-to-end software products that address tangible user needs.
 
 </td>
 <td width="25%" align="left" valign="top">
 
 #### `02` ENGINEER
 **System Reliability**
-Structuring maintainable APIs, secure authentication, normalized database schemas, and modular architectures.
+Structuring robust API boundaries, strict type definitions, resilient error handling, normalized schemas, and calibrated outputs.
 
 </td>
 <td width="25%" align="left" valign="top">
 
 #### `03` EXPLORE
 **Applied Intelligence**
-Investigating computer vision pipelines, assistive technologies, and machine learning models for user impact.
+Investigating neuro-symbolic reasoning, dense/sparse search, computer vision models, and assistive interfaces with measurable utility.
 
 </td>
 <td width="25%" align="left" valign="top">
 
 #### `04` REFINE
 **Software Quality**
-Practicing clean code conventions, version control discipline, network optimization, and continuous improvement.
+Maintaining high code quality, systematic version control discipline, comprehensive test suites, and continuous learning.
 
 </td>
 </tr>
@@ -273,26 +269,22 @@ Practicing clean code conventions, version control discipline, network optimizat
 
 ### `//` GET IN TOUCH
 
-I welcome opportunities to collaborate on impactful engineering projects, discuss applied AI and full-stack development, or explore software engineering roles.
+I welcome opportunities to collaborate on applied artificial intelligence, discuss full-stack and backend systems, or explore software engineering roles.
 
 <br/>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/kingstonshasanth">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-243E56?style=for-the-badge&logo=linkedin&logoColor=F4F1EA" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-B88763?style=for-the-badge&logo=linkedin&logoColor=F3EFE7" alt="Connect on LinkedIn" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/kingston-shasanth">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-1E3F35?style=for-the-badge&logo=github&logoColor=F4F1EA" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-17383B?style=for-the-badge&logo=github&logoColor=F3EFE7" alt="Follow on GitHub" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243E56,50:1E3F35,100:0D1117&height=100&section=footer" width="100%" alt="Footer Banner" />
-
-<br/>
-
-<sub>ENGINEERED WITH RIGOR &middot; BUILT WITH PURPOSE &middot; CONTINUOUSLY LEARNING</sub>
+<img src="assets/footer.svg" width="100%" alt="Kingston Shasanth — Engineered with Rigor · Built with Purpose · Always Learning" />
 
 </div>
