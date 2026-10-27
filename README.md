@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Kingston Shasanth — Aspiring Software Engineer | Software Development · Machine Learning · Artificial Intelligence" />
-<br/>
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Kingston Shasanth — Aspiring Software Engineer | Software Development · Machine Learning · Artificial Intelligence" />
+</p>
 <p align="center">
   <a href="https://github.com/kingston-shasanth">
     <img src="https://img.shields.io/badge/GitHub-kingston--shasanth-17383B?style=flat-square&logo=github&logoColor=F3EFE7" alt="GitHub Profile" />
@@ -17,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=D7BE98&center=true&vCenter=true&width=680&height=45&lines=Applied+AI+%26+Machine+Learning;Full-Stack+Software+Engineering;Computer+Vision+%26+Intelligent+Systems;Accessible%2C+Human-Centered+Technology" alt="Technical Focus Areas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D7BE98&center=true&vCenter=true&width=680&height=48&lines=Applied+AI+%26+Machine+Learning;Full-Stack+Software+Engineering;Computer+Vision+%26+Intelligent+Systems;Accessible%2C+Human-Centered+Technology" alt="Technical Focus Areas" />
 </p>
 
 <p align="center">
