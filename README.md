@@ -6,16 +6,18 @@
 
 <p align="center">
   <a href="https://github.com/kingston-shasanth">
-    <img src="https://img.shields.io/badge/GitHub-kingston--shasanth-0D1117?style=flat-square&logo=github&logoColor=D7BE98&labelColor=161B22" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-kingston--shasanth-0D1117?style=for-the-badge&logo=github&logoColor=D7BE98&labelColor=161B22" alt="GitHub Profile" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kingstonshasanth">
-    <img src="https://img.shields.io/badge/LinkedIn-kingstonshasanth-0D1117?style=flat-square&logo=linkedin&logoColor=D7BE98&labelColor=161B22" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-kingstonshasanth-0D1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0Q3QkU5OCI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&labelColor=161B22" alt="LinkedIn Profile" />
   </a>
-  &nbsp;
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Karunya%20University-Coimbatore%2C%20India-0D1117?style=flat-square&logoColor=D7BE98&labelColor=161B22" alt="Karunya University" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-0D1117?style=flat-square&logoColor=D7BE98&labelColor=161B22" alt="B.Tech AI & Data Science" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-0D1117?style=flat-square&logoColor=D7BE98&labelColor=161B22" alt="B.Tech AI &amp; Data Science" />
 </p>
 
 <p align="center">
@@ -111,46 +113,28 @@ An organized inventory of programming languages, frameworks, libraries, and deve
 
 <table>
 <tr>
-<td width="22%"><strong>Languages</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,html,css&theme=dark" alt="Languages" /><br/>
-  <sub><code>Python</code> · <code>Java</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>C</code> · <code>C++</code> · <code>HTML5</code> · <code>CSS3</code></sub>
-</td>
+<td width="24%"><strong>Languages</strong></td>
+<td><code>Python</code> &nbsp;·&nbsp; <code>Java</code> &nbsp;·&nbsp; <code>JavaScript</code> &nbsp;·&nbsp; <code>TypeScript</code> &nbsp;·&nbsp; <code>C</code> &nbsp;·&nbsp; <code>C++</code> &nbsp;·&nbsp; <code>HTML5</code> &nbsp;·&nbsp; <code>CSS3</code></td>
 </tr>
 <tr>
-<td width="22%"><strong>Frontend</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" alt="Frontend" /><br/>
-  <sub><code>React (18/19)</code> · <code>Vite</code> · <code>Tailwind CSS</code> · <code>TypeScript</code> · <code>Capacitor (Mobile)</code></sub>
-</td>
+<td width="24%"><strong>Frontend</strong></td>
+<td><code>React (18 / 19)</code> &nbsp;·&nbsp; <code>Vite</code> &nbsp;·&nbsp; <code>Tailwind CSS</code> &nbsp;·&nbsp; <code>Capacitor (Mobile)</code></td>
 </tr>
 <tr>
-<td width="22%"><strong>Backend &amp; APIs</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" alt="Backend" /><br/>
-  <sub><code>FastAPI</code> · <code>Node.js</code> · <code>Express.js</code> · <code>RESTful APIs</code> · <code>JWT Authentication</code> · <code>Asynchronous Task Handlers</code></sub>
-</td>
+<td width="24%"><strong>Backend &amp; APIs</strong></td>
+<td><code>FastAPI</code> &nbsp;·&nbsp; <code>Node.js</code> &nbsp;·&nbsp; <code>Express.js</code> &nbsp;·&nbsp; <code>RESTful APIs</code> &nbsp;·&nbsp; <code>JWT Authentication</code> &nbsp;·&nbsp; <code>Asynchronous Pipelines</code></td>
 </tr>
 <tr>
-<td width="22%"><strong>AI &amp; Data Science</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,numpy,pandas&theme=dark" alt="AI & ML" /><br/>
-  <sub><code>PyTorch</code> · <code>DeBERTa-v3</code> · <code>ResNet-18</code> · <code>Scikit-Learn</code> · <code>FAISS</code> · <code>BM25</code> · <code>NumPy</code> · <code>Pandas</code></sub>
-</td>
+<td width="24%"><strong>AI &amp; Data Science</strong></td>
+<td><code>PyTorch</code> &nbsp;·&nbsp; <code>DeBERTa-v3</code> &nbsp;·&nbsp; <code>ResNet-18</code> &nbsp;·&nbsp; <code>Scikit-Learn</code> &nbsp;·&nbsp; <code>FAISS</code> &nbsp;·&nbsp; <code>BM25</code> &nbsp;·&nbsp; <code>NumPy</code> &nbsp;·&nbsp; <code>Pandas</code></td>
 </tr>
 <tr>
-<td width="22%"><strong>Databases</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" alt="Databases" /><br/>
-  <sub><code>MongoDB</code> · <code>Mongoose</code> · <code>MySQL</code> · <code>SQLite</code> · <code>Relational &amp; Document Schema Design</code></sub>
-</td>
+<td width="24%"><strong>Databases</strong></td>
+<td><code>MongoDB</code> &nbsp;·&nbsp; <code>Mongoose</code> &nbsp;·&nbsp; <code>MySQL</code> &nbsp;·&nbsp; <code>SQLite</code> &nbsp;·&nbsp; <code>Relational &amp; Document Schemas</code></td>
 </tr>
 <tr>
-<td width="22%"><strong>Tools &amp; Systems</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" alt="Developer Tools" /><br/>
-  <sub><code>Git</code> · <code>GitHub</code> · <code>Linux CLI</code> · <code>VS Code</code> · <code>Postman</code></sub>
-</td>
+<td width="24%"><strong>Tools &amp; Systems</strong></td>
+<td><code>Git</code> &nbsp;·&nbsp; <code>GitHub</code> &nbsp;·&nbsp; <code>Linux CLI</code> &nbsp;·&nbsp; <code>VS Code</code> &nbsp;·&nbsp; <code>Postman</code></td>
 </tr>
 </table>
 
@@ -206,11 +190,11 @@ Open to software engineering roles, applied artificial intelligence projects, an
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kingstonshasanth">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=D7BE98&labelColor=161B22" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0D1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0Q3QkU5OCI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&labelColor=161B22" alt="Connect on LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/kingston-shasanth">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-0D1117?style=flat-square&logo=github&logoColor=D7BE98&labelColor=161B22" alt="Follow on GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-0D1117?style=for-the-badge&logo=github&logoColor=D7BE98&labelColor=161B22" alt="Follow on GitHub" />
   </a>
 </p>
 
