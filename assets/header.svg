@@ -1,192 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="100%" height="auto" preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="auto" preserveAspectRatio="xMidYMid meet">
   <defs>
-    <!-- Background Gradient: Deep Charcoal, Midnight Petrol, and Dark Aubergine -->
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#10171B" />
-      <stop offset="38%" stop-color="#17383B" />
-      <stop offset="72%" stop-color="#28202B" />
-      <stop offset="100%" stop-color="#10171B" />
+    <!-- Background Gradient: Pure Black to Deep Charcoal with subtle Dark Grey depth -->
+    <linearGradient id="headerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000000" />
+      <stop offset="50%" stop-color="#0A0A0A" />
+      <stop offset="100%" stop-color="#171717" />
     </linearGradient>
 
-    <!-- Radial Central Glow -->
-    <radialGradient id="focalGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#D7BE98" stop-opacity="0.16" />
-      <stop offset="45%" stop-color="#B88763" stop-opacity="0.06" />
-      <stop offset="100%" stop-color="#10171B" stop-opacity="0" />
+    <!-- Subtle Center Radial Glow -->
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.04" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
     </radialGradient>
-
-    <!-- Copper Signal Gradient -->
-    <linearGradient id="signalGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#B88763" stop-opacity="0.08" />
-      <stop offset="20%" stop-color="#D7BE98" stop-opacity="0.75" />
-      <stop offset="50%" stop-color="#B88763" stop-opacity="0.9" />
-      <stop offset="80%" stop-color="#D7BE98" stop-opacity="0.75" />
-      <stop offset="100%" stop-color="#B88763" stop-opacity="0.08" />
-    </linearGradient>
-
-    <!-- Secondary Sage Guideline Gradient -->
-    <linearGradient id="sageGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#9BAFA8" stop-opacity="0" />
-      <stop offset="50%" stop-color="#9BAFA8" stop-opacity="0.3" />
-      <stop offset="100%" stop-color="#9BAFA8" stop-opacity="0" />
-    </linearGradient>
 
     <style>
       .primary-title {
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-        font-size: 52px;
+        font-size: 54px;
         font-weight: 800;
-        letter-spacing: 6px;
-        fill: #F3EFE7;
+        letter-spacing: 4px;
+        fill: #FFFFFF;
       }
       .subtitle {
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-        font-size: 19px;
+        font-size: 20px;
         font-weight: 600;
-        letter-spacing: 4.5px;
-        fill: #D7BE98;
+        letter-spacing: 3.5px;
+        fill: #B8B8B8;
       }
       .supporting-line {
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
         font-size: 13px;
         font-weight: 500;
-        letter-spacing: 3.5px;
-        fill: #9BAFA8;
-      }
-      .spec-overline {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-        font-size: 11px;
-        font-weight: 600;
-        letter-spacing: 4px;
-        fill: #B88763;
-      }
-      .tech-marker {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-        font-size: 9px;
-        font-weight: 500;
-        letter-spacing: 2px;
-        fill: #9BAFA8;
-        opacity: 0.6;
+        letter-spacing: 3px;
+        fill: #777777;
       }
     </style>
   </defs>
 
   <!-- Background Base -->
-  <rect width="1200" height="380" rx="10" fill="url(#bgGrad)" />
+  <rect width="1200" height="360" rx="8" fill="url(#headerBg)" />
+  <rect width="1200" height="360" rx="8" fill="url(#centerGlow)" />
 
-  <!-- Ambient Illumination -->
-  <rect width="1200" height="380" rx="10" fill="url(#focalGlow)" />
+  <!-- Restrained Minimalist Outer Border -->
+  <rect x="8" y="8" width="1184" height="344" rx="6" fill="none" stroke="#171717" stroke-width="1" />
 
-  <!-- Architectural Outer Framing -->
-  <rect x="14" y="14" width="1172" height="352" rx="6" fill="none" stroke="#B88763" stroke-width="1" stroke-opacity="0.22" />
-  <rect x="18" y="18" width="1164" height="344" rx="4" fill="none" stroke="#9BAFA8" stroke-width="0.75" stroke-opacity="0.1" />
+  <!-- Center Typography (Stationary, Crisp, Focal Point) -->
+  <text x="600" y="160" text-anchor="middle" class="primary-title">KINGSTON SHASANTH</text>
+  <text x="600" y="212" text-anchor="middle" class="subtitle">ASPIRING SOFTWARE ENGINEER</text>
+  <text x="600" y="255" text-anchor="middle" class="supporting-line">SOFTWARE DEVELOPMENT · MACHINE LEARNING · ARTIFICIAL INTELLIGENCE</text>
 
-  <!-- Corner Registration Brackets -->
-  <path d="M 28 46 L 28 28 L 46 28" fill="none" stroke="#B88763" stroke-width="2" stroke-linecap="square" />
-  <path d="M 1172 46 L 1172 28 L 1154 28" fill="none" stroke="#B88763" stroke-width="2" stroke-linecap="square" />
-  <path d="M 28 334 L 28 352 L 46 352" fill="none" stroke="#B88763" stroke-width="2" stroke-linecap="square" />
-  <path d="M 1172 334 L 1172 352 L 1154 352" fill="none" stroke="#B88763" stroke-width="2" stroke-linecap="square" />
+  <!-- Original Motif: Monochrome Signal Path -->
+  <!-- Base Grounding Track -->
+  <path d="M 120 295 L 860 295 L 900 318 L 1080 318" 
+        fill="none" stroke="#FFFFFF" stroke-width="1.25" stroke-opacity="0.85" stroke-linecap="round" />
 
-  <!-- Technical Registration Crosshairs (+) -->
-  <g stroke="#D7BE98" stroke-width="1" opacity="0.45">
-    <path d="M 60 55 L 60 65 M 55 60 L 65 60" />
-    <path d="M 1140 55 L 1140 65 M 1135 60 L 1145 60" />
-    <path d="M 60 315 L 60 325 M 55 320 L 65 320" />
-    <path d="M 1140 315 L 1140 325 M 1135 320 L 1145 320" />
-  </g>
-
-  <!-- Precision Architectural Grid Lines -->
-  <g stroke="#9BAFA8" stroke-width="0.75" stroke-opacity="0.12">
-    <line x1="140" y1="18" x2="140" y2="362" stroke-dasharray="4 6" />
-    <line x1="320" y1="18" x2="320" y2="362" stroke-dasharray="4 6" />
-    <line x1="880" y1="18" x2="880" y2="362" stroke-dasharray="4 6" />
-    <line x1="1060" y1="18" x2="1060" y2="362" stroke-dasharray="4 6" />
-    <line x1="18" y1="80" x2="1182" y2="80" stroke-dasharray="4 6" />
-    <line x1="18" y1="300" x2="1182" y2="300" stroke-dasharray="4 6" />
-  </g>
-
-  <!-- Technical System Identifiers -->
-  <text x="35" y="44" class="tech-marker">SYS.ENG // 01</text>
-  <text x="1115" y="44" class="tech-marker" text-anchor="end">COORD. 2026</text>
-  <text x="35" y="344" class="tech-marker">STABLE.REL</text>
-  <text x="1115" y="344" class="tech-marker" text-anchor="end">SYS.ARCH // PORTFOLIO</text>
-
-  <!-- Distinctive Focal Element: Architectural Signal Paths -->
-  <!-- Primary Signal Trace: Orthogonal & Diagonal Route Traversing the Grid -->
-  <path d="M 18 190 L 180 190 L 260 110 L 460 110 L 510 160 L 690 160 L 740 110 L 940 110 L 1020 190 L 1182 190" 
-        fill="none" stroke="url(#signalGrad)" stroke-width="2" stroke-linecap="round">
-    <animate attributeName="stroke-dashoffset" from="0" to="280" dur="20s" repeatCount="indefinite" />
+  <!-- Smooth Flowing Highlight Pulse Along Signal Path -->
+  <path d="M 120 295 L 860 295 L 900 318 L 1080 318" 
+        fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" 
+        stroke-dasharray="140 860" stroke-dashoffset="1000" opacity="0.95">
+    <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="6s" repeatCount="indefinite" />
   </path>
 
-  <!-- Flowing Secondary Architectural Harmonic Line -->
-  <path d="M 18 240 C 220 160, 420 310, 600 230 C 780 150, 980 300, 1182 220" 
-        fill="none" stroke="url(#signalGrad)" stroke-width="1.25" stroke-dasharray="14 10" stroke-opacity="0.5">
-    <animate attributeName="stroke-dashoffset" from="0" to="-240" dur="24s" repeatCount="indefinite" />
-  </path>
-
-  <!-- Subtle Central Grounding Line -->
-  <line x1="240" y1="285" x2="960" y2="285" stroke="url(#sageGrad)" stroke-width="1" />
-
-  <!-- Technical Anchor Points with Restrained Motion -->
-  <g>
-    <!-- Left Anchor Point -->
-    <circle cx="260" cy="110" r="3.5" fill="#B88763" opacity="0.8">
-      <animate attributeName="opacity" values="0.4;0.95;0.4" dur="4s" repeatCount="indefinite" />
-      <animate attributeName="r" values="3;4.2;3" dur="4s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="260" cy="110" r="9" fill="none" stroke="#B88763" stroke-width="0.75" opacity="0.3">
-      <animate attributeName="r" values="7;12;7" dur="4s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="0.35;0.05;0.35" dur="4s" repeatCount="indefinite" />
-    </circle>
-
-    <!-- Mid-Left Intersection Node -->
-    <polygon points="460,107 463,110 460,113 457,110" fill="#D7BE98" opacity="0.75" />
-
-    <!-- Center Bridge Anchor -->
-    <circle cx="600" cy="230" r="3" fill="#D7BE98" opacity="0.85">
-      <animate attributeName="opacity" values="0.35;1;0.35" dur="3.5s" repeatCount="indefinite" />
-    </circle>
-
-    <!-- Mid-Right Intersection Node -->
-    <polygon points="740,107 743,110 740,113 737,110" fill="#D7BE98" opacity="0.75" />
-
-    <!-- Right Anchor Point -->
-    <circle cx="940" cy="110" r="3.5" fill="#B88763" opacity="0.8">
-      <animate attributeName="opacity" values="0.4;0.95;0.4" dur="4.5s" repeatCount="indefinite" />
-      <animate attributeName="r" values="3;4.2;3" dur="4.5s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="940" cy="110" r="9" fill="none" stroke="#B88763" stroke-width="0.75" opacity="0.3">
-      <animate attributeName="r" values="7;12;7" dur="4.5s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="0.35;0.05;0.35" dur="4.5s" repeatCount="indefinite" />
-    </circle>
-  </g>
-
-  <!-- Typography Hierarchy: Dominant, Readable, Architectural -->
-  <g id="typography">
-    <!-- Overline Specification Tracker -->
-    <text x="600" y="104" text-anchor="middle" class="spec-overline">PORTFOLIO SPECIFICATION // 01</text>
-    
-    <!-- Accent Line Above Primary Title -->
-    <line x1="530" y1="116" x2="670" y2="116" stroke="#B88763" stroke-width="1.5" stroke-linecap="round" />
-
-    <!-- Primary Dominant Title -->
-    <text x="600" y="176" text-anchor="middle" class="primary-title">KINGSTON SHASANTH</text>
-
-    <!-- Prominent, Clear Subtitle -->
-    <text x="600" y="222" text-anchor="middle" class="subtitle">ASPIRING SOFTWARE ENGINEER</text>
-
-    <!-- Legible Supporting Discipline Line -->
-    <text x="600" y="260" text-anchor="middle" class="supporting-line">ARTIFICIAL INTELLIGENCE · DATA SCIENCE · FULL-STACK DEVELOPMENT</text>
-
-    <!-- Bottom Technical Node Accent -->
-    <g transform="translate(600, 310)">
-      <rect x="-180" y="-12" width="360" height="24" rx="12" 
-            fill="#10171B" fill-opacity="0.8" stroke="#B88763" stroke-width="0.75" stroke-opacity="0.35" />
-      <circle cx="-155" cy="0" r="3" fill="#9BAFA8">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.8s" repeatCount="indefinite" />
-      </circle>
-      <text x="10" y="3.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
-            font-size="9.5" font-weight="600" fill="#F3EFE7" letter-spacing="2px">SYSTEM DESIGN · NEURO-SYMBOLIC AI</text>
-    </g>
-  </g>
+  <!-- Clean Signal Endpoint Node -->
+  <circle cx="1080" cy="318" r="3.5" fill="#FFFFFF">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite" />
+  </circle>
 </svg>

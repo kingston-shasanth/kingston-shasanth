@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Kingston Shasanth — Aspiring Software Engineer | Artificial Intelligence · Data Science · Full-Stack Development" />
+<img src="assets/header.svg" width="100%" alt="Kingston Shasanth — Aspiring Software Engineer | Software Development · Machine Learning · Artificial Intelligence" />
 
 <p align="center">
   <a href="https://github.com/kingston-shasanth">
@@ -277,6 +277,6 @@ I welcome opportunities to collaborate on applied artificial intelligence, discu
   </a>
 </p>
 
-<img src="assets/footer.svg" width="100%" alt="Kingston Shasanth — Engineered with Rigor · Built with Purpose · Always Learning" />
+<img src="assets/footer.svg" width="100%" alt="Kingston Shasanth — Engineer with Purpose | Build Thoughtfully. Solve Meaningfully. Improve Continuously." />
 
 </div>
