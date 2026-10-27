@@ -1,220 +1,203 @@
-::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:101820,50:183A37,100:284B63&text=KINGSTON%20SHASANTH&fontColor=F4F1EA&fontSize=42&fontAlignY=43&desc=AI%20%26%20DATA%20SCIENCE%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descSize=14&descAlignY=67&animation=fadeIn" width="100%" alt="Kingston Shasanth profile banner"/>`{=html}
+ <div align="center">
 
-`<a href="https://www.linkedin.com/in/kingstonshasanth">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Connect-315C68?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
-`</a>`{=html} `<a href="https://github.com/kingston-shasanth">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-27343B?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>`{=html}
-`</a>`{=html}
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,50:183A37,100:284B63&height=230&section=header&text=KINGSTON%20SHASANTH&fontSize=42&fontColor=F4F1EA&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20SOFTWARE%20ENGINEERING&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
 
-`<br/>`{=html}
+<br/>
 
-`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=9AB7B0&center=true&vCenter=true&width=650&lines=Building+useful+AI-powered+products.;Turning+ideas+into+working+software.;Exploring+machine+learning+and+full-stack+systems." alt="Animated introduction"/>`{=html}
-:::
+<a href="https://github.com/kingston-shasanth">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-24343B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/kingstonshasanth">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-315C68?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-------------------------------------------------------------------------
+<br/><br/>
 
-## About
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=9AB7B0&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications.;Engineering+useful+digital+experiences.;Learning.+Building.+Improving." />
 
-I'm an **AI & Data Science undergraduate at Karunya University**
-interested in building practical software at the intersection of
-**machine learning, accessible technology, and full-stack development**.
+</div>
 
-I enjoy taking a problem from concept to implementation: planning the
-architecture, building the interface and API, connecting the database,
-and refining the user experience.
+---
 
--   **Currently exploring:** applied AI, computer vision, and full-stack
-    product engineering
--   **Building with:** React, Vite, Node.js, Express, Python, FastAPI,
-    and databases
--   **Approach:** practical features, clear architecture, thoughtful UI,
-    and continuous iteration
--   **Open to:** internships, collaborative projects, and opportunities
-    to learn by shipping real products
+## `01` — PROFILE
 
-------------------------------------------------------------------------
+<img align="right" width="130" src="https://github-readme-stats.vercel.app/api?username=kingston-shasanth&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&text_color=9AB7B0&icon_color=C2A878&hide_rank=true" />
 
-## Selected Work
+I'm an **Artificial Intelligence and Data Science undergraduate at Karunya University, Coimbatore**, passionate about building practical applications with AI, machine learning, and full-stack technologies.
 
-```{=html}
+I enjoy transforming ideas into working products through thoughtful engineering, clean interfaces, and reliable backend systems.
+
+- **Focus:** Applied AI, Machine Learning & Full-Stack Development
+- **Currently building:** AI-powered and data-driven applications
+- **Engineering interests:** Computer Vision, APIs, Databases & Accessibility
+- **Goal:** Develop production-minded software that solves real problems
+
+<br clear="right"/>
+
+---
+
+## `02` — FEATURED PROJECTS
+
 <table>
-```
-```{=html}
 <tr>
-```
-```{=html}
 <td width="50%" valign="top">
-```
-### DRISHTI AI
+
+<h3>01 · DRISHTI AI</h3>
 
 **Accessible Currency Intelligence**
 
-A voice-first currency recognition concept designed with accessibility
-in mind, with a focus on helping blind and low-vision users interact
-through spoken guidance.
+An accessibility-focused application exploring currency recognition and voice-guided interaction for blind and low-vision users.
 
-**Focus areas** - Computer vision with pretrained models - FastAPI +
-React application architecture - Voice-oriented accessibility and
-multilingual feedback
+- Computer vision integration
+- Voice-first user experience
+- Accessible, multilingual feedback
 
-`<sub>`{=html}Python · PyTorch · FastAPI · React`</sub>`{=html}
+**Stack:** Python · PyTorch · FastAPI · React
 
-```{=html}
 </td>
-```
-```{=html}
 <td width="50%" valign="top">
-```
-### RELOOP
+
+<h3>02 · RELOOP</h3>
 
 **Refurbished Electronics Marketplace**
 
-A full-stack marketplace concept for refurbished electronics, combining
-a customer storefront, administration workflows, and
-refurbishment-focused features.
+A full-stack marketplace for refurbished electronics with customer-facing shopping features and administrative workflows.
 
-**Focus areas** - Product and admin workflows - REST API and database
-integration - Separate payment method and payment status handling
+- Product management
+- REST API integration
+- MongoDB-backed application
 
-`<sub>`{=html}React · Vite · Express · MongoDB`</sub>`{=html}
+**Stack:** React · Vite · Express · MongoDB
 
-```{=html}
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
 <tr>
-```
-```{=html}
 <td width="50%" valign="top">
-```
-### FitTrack
+
+<h3>03 · FitTrack</h3>
 
 **Fitness Management System**
 
-A fitness-focused application built to practise structured application
-development and database connectivity.
+A fitness-focused application built to practise application development, database connectivity, and structured software design.
 
-[View repository →](https://github.com/kingston-shasanth/FitTrack)
+<a href="https://github.com/kingston-shasanth/FitTrack">↗ View Repository</a>
 
-`<sub>`{=html}HTML · Java · JDBC · MySQL`</sub>`{=html}
+**Stack:** HTML · Java · JDBC · MySQL
 
-```{=html}
 </td>
-```
-```{=html}
 <td width="50%" valign="top">
-```
-### NovaNews
+
+<h3>04 · NovaNews</h3>
 
 **Network Infrastructure Simulation**
 
-A networking project exploring network design and configuration in a
-simulated environment.
+A networking project focused on designing and exploring network infrastructure in a simulated environment.
 
-[View repository
-→](https://github.com/kingston-shasanth/NovaNews-Network-Infrastructure)
+<a href="https://github.com/kingston-shasanth/NovaNews-Network-Infrastructure">↗ View Repository</a>
 
-`<sub>`{=html}Cisco Packet Tracer · Networking`</sub>`{=html}
+**Stack:** Cisco Packet Tracer · Networking
 
-```{=html}
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
 </table>
-```
 
-------------------------------------------------------------------------
+---
 
-## Technical Toolkit
+## `03` — TECHNOLOGY STACK
 
-::: {align="center"}
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-2F5D50?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-5B6470?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-8A6D4B?style=flat-square&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-315C68?style=flat-square&logo=postgresql&logoColor=white)
+**PROGRAMMING**
 
-**Frontend**
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" />
 
-![React](https://img.shields.io/badge/React-315C68?style=flat-square&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-5B6470?style=flat-square&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-8A6D4B?style=flat-square&logo=html5&logoColor=white)
-![Tailwind
-CSS](https://img.shields.io/badge/Tailwind_CSS-315C68?style=flat-square&logo=tailwindcss&logoColor=white)
+**FRONTEND & BACKEND**
 
-**Backend & Data**
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,fastapi&theme=dark" />
 
-![Node.js](https://img.shields.io/badge/Node.js-2F5D50?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-5B6470?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-2F5D50?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-2F5D50?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-315C68?style=flat-square&logo=mysql&logoColor=white)
+**AI, DATA & DATABASES**
 
-**AI / ML & Tools**
+<img src="https://skillicons.dev/icons?i=pytorch,numpy,mongodb,mysql&theme=dark" />
 
-![PyTorch](https://img.shields.io/badge/PyTorch-8A6D4B?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-315C68?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-315C68?style=flat-square&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-5B6470?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-27343B?style=flat-square&logo=github&logoColor=white)
-:::
+**DEVELOPER TOOLS**
 
-------------------------------------------------------------------------
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
-## GitHub at a Glance
+</div>
 
-::: {align="center"}
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=kingston-shasanth&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9AB7B0&text_color=E7E5DF&icon_color=C2A878&include_all_commits=true" alt="GitHub profile statistics"/>`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingston-shasanth&layout=compact&hide_border=true&bg_color=0D1117&title_color=9AB7B0&text_color=E7E5DF&langs_count=6" alt="Most-used programming languages"/>`{=html}
-:::
+---
 
-::: {align="center"}
-`<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kingston-shasanth&bg_color=0D1117&color=9AB7B0&line=6F988D&point=C2A878&area=true&hide_border=true" alt="GitHub contribution activity graph"/>`{=html}
-:::
+## `04` — GITHUB ANALYTICS
 
-`<sub>`{=html}Stats and contribution graphics are provided by
-third-party services and may occasionally be unavailable or
-delayed.`</sub>`{=html}
+<div align="center">
 
-------------------------------------------------------------------------
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kingston-shasanth&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9AB7B0&text_color=E7E5DF&icon_color=C2A878&include_all_commits=true" />
 
-## What I'm Working Toward
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingston-shasanth&layout=compact&hide_border=true&bg_color=0D1117&title_color=9AB7B0&text_color=E7E5DF&langs_count=8" />
 
--   Building dependable AI features around real user needs---not just
-    demos.
--   Improving model integration, API design, database modelling, and
-    deployment skills.
--   Creating accessible interfaces that work well on mobile and support
-    real-world use.
--   Developing a strong foundation for advanced study and a career in
-    applied AI.
+<br/><br/>
 
-------------------------------------------------------------------------
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kingston-shasanth&bg_color=0D1117&color=9AB7B0&line=648C80&point=C2A878&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
-## Let's Connect
+</div>
 
-Have an idea, a project to collaborate on, or an opportunity that fits
-my interests? Feel free to connect.
+---
 
-::: {align="center"}
-`<a href="https://www.linkedin.com/in/kingstonshasanth">`{=html}
-`<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-315C68?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>`{=html}
-`</a>`{=html} `<a href="https://github.com/kingston-shasanth">`{=html}
-`<img src="https://img.shields.io/badge/Explore%20my%20repositories-27343B?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>`{=html}
-`</a>`{=html}
+## `05` — CURRENT DIRECTION
 
-`<br/>`{=html}`<br/>`{=html}
+<table>
+<tr>
+<td width="33%" align="center">
 
-`<img src="https://capsule-render.vercel.app/api?type=rect&height=70&section=footer&color=0:284B63,50:183A37,100:101820" width="100%" alt="Decorative footer"/>`{=html}
+**01**
 
-`<sub>`{=html}Designed with clarity, curiosity, and a focus on
-building.`</sub>`{=html}
-:::
+### Build
+
+Practical AI applications and full-stack products.
+
+</td>
+<td width="33%" align="center">
+
+**02**
+
+### Improve
+
+Model integration, system design, and software quality.
+
+</td>
+<td width="33%" align="center">
+
+**03**
+
+### Explore
+
+Computer vision, accessible technology, and applied ML.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `06` — LET'S CONNECT
+
+<div align="center">
+
+I'm interested in meaningful projects, technical collaboration, and opportunities to grow as an AI and software engineer.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/kingstonshasanth">
+<img src="https://img.shields.io/badge/LINKEDIN-315C68?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/kingston-shasanth">
+<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-27343B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:284B63,50:183A37,100:101820&height=120&section=footer" width="100%" />
+
+<sub>ENGINEERED WITH CURIOSITY · BUILT WITH PURPOSE</sub>
+
+</div>
